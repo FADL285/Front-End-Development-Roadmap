@@ -1,4 +1,6 @@
-![Front-End Development](img/front-end-roadmap.gif)
+<p align="center">
+  <img src="img/front-end-roadmap.gif" alt="Front-End Development" />
+</p>
 
 > Roadmap to becoming a Front-End Developer in 2021.
 
@@ -21,7 +23,7 @@ This is a curated roadmap to becoming a professional Front-end Developer that an
 <table>
   <thead align="center">
     <tr border: none;>
-      <td colspan="4"><b>:world_map: Content</b></td>
+      <td colspan="3"><b>:world_map: Content</b></td>
     </tr>
   </thead>
   <tbody>
@@ -44,7 +46,7 @@ This is a curated roadmap to becoming a professional Front-end Developer that an
         <a href="#basic-tools"><b>5-Basic tools</b></a>
       </td>
       <td>
-        <a href="#"><b>.....</b></a>
+        <a href="#beginner-level"><b>6-Beginner Level (HTML, CSS, JS)</b></a>
       </td>
     </tr>
   </tbody>
@@ -139,7 +141,7 @@ Git is a version control system that enables developers to track changes in thei
 
 GitHub is a code hosting platform for software development. GitHub lets teams work together on projects and it is also used for version control. It can be used among teams to collaborate on a project. For example, a team of developers wants to build a web application and everyone is given a task that has to be updated daily while working on the project, in this case, Github helps them build a centralized repository where each team member can make updates or manage the code file or repository.
 
-\*\*Here are some resources to learn Git & GitHub:
+**Here are some resources to learn Git & GitHub:**
 
 - [Git Handbook - Github guides &nbsp; :page_facing_up: ](https://guides.github.com/introduction/git-handbook/)
 - [Git Videos &nbsp; :clapper: :capital_abcd: :clapper: ](https://git-scm.com/videos)
@@ -184,6 +186,96 @@ Basic tools to get start.
     </tr>
   </tbody>
 </table>
+
+[Code Editors resources :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/code-editors/)
+
+---
+
+# Beginner Level:
+
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td colspan="4"><b>:world_map: Content</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="#html"><b>1- HTML</b></a>
+      </td>
+      <td>
+        <a href="#css"><b>2- CSS</b></a>
+      </td>
+      <td>
+        <a href="#html-css"><b>3- HTML & CSS - (resources & practice)</b></a>
+      </td>
+      <td>
+        <a href="#javascript"><b>4- JavaScript</b></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <img src="img/html-css-js-diff.jpg" alt="Difference Between HTML, CSS & JS" />
+</p>
+
+## HTML:
+
+HTML stands for Hypertext Markup Language. It is the markup language for building web pages, it is also the building block of the web. HTML is easy to learn and comprehend. With just HTML, you can build a basic website.
+
+
+**Here are some resources to learn HTML**
+
+- [Learning resources and tools for HTML - Front-End Masters :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/html/) :star2:
+- [Learn HTML - Elzero Web School :page_facing_up:](https://elzero.org/learn-html/) :star2:
+    - [Learn HTML In Arabic 2021 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+    - [HTML Study Plan :page_facing_up:](https://elzero.org/study/html-2021-study-plan/)
+    - [HTML Assignments :page_facing_up:](https://elzero.org/category/assignments/html-assignments/)
+- [MDN - HTML :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [HTML tutorial - w3schools :page_facing_up:](https://www.w3schools.com/html/default.asp)
+- [Learn HTML Tutorial || HTML دورة كاملة لتعلم لغة  :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLtFbQRDJ11kHSmfYMvSprAHaPeNlpF4qK) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+- [HTML Full Course - Freecodecamp :clapper:](https://youtu.be/pQN-pnXPaVg)
+- [HTML Crash Course For Absolute Beginners - Traversy Media :clapper:](https://www.youtube.com/watch?v=UB1O30fR-EE)
+
+
+After Learning HTML read this :arrow_right:	[HTML Interview Questions :page_facing_up:](https://www.interviewbit.com/html-interview-questions/)
+
+---
+
+## CSS:
+
+CSS stands for Cascading Style Sheets. It is the technology to learn after HTML. It is used for styling our HTML. For example, we can use CSS to space our content, colours, fonts, etc.
+
+**Here are some resources to learn HTML**
+
+- [Learn CSS - Elzero Web School :page_facing_up:](https://elzero.org/learn-css/) :star2:
+    - [Learn CSS In Arabic 2021 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+    - [CSS Study Plan :page_facing_up:](https://elzero.org/study/css-2021-study-plan/)
+    - [CSS Assignments :page_facing_up:](https://elzero.org/category/assignments/css-assignments/)
+- [MDN - CSS :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [Learn CSS Tutorial || CSS دورة كاملة لتعلم لغة :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFENgYWivcxJwFKZp815zXX) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+- [CSS tutorials - w3schools :page_facing_up:](https://www.w3schools.com/css/default.asp)
+- [CSS Tutorial - Zero to Hero - Freecodecamp :clapper:](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [HTML5 & CSS Development - Udemy :clapper:](https://www.youtube.com/watch?v=5bMdjkfvONE)
+- [Flexbox CSS in 20 minutes - Traversy media :clapper:](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+
+**The basics of CSS you need to learn are:**
+
+- Basics, Box Model, Colors & Gridents, Units :arrow_right: [CSS Fundamentals :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-fundamentals)
+- Flow, Positioning, Floats, Flex box, Grids :arrow_right: [CSS Layout :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-layout/)
+- Responsive Design & Media Queries :arrow_right: [CSS Media Queries :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-media-queries/)
+- Animations :arrow_right: [CSS Transitions, Transforms & Animation :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-transitions-transforms-animations/)
+- Web Fonts, CSS Icons, Google Fonts :arrow_right: [CSS Fonts & Icons :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-fonts-and-icons/)
+- CSS Practices :arrow_right: [CSS Practices :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-practices/)
+
+---
+
+## HTML & CSS - (Resources & Practice)
+
+lorem ........
 
 ---
 
