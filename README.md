@@ -18,16 +18,16 @@ This is a curated roadmap to becoming a professional Front-end Developer that an
   </thead>
   <tbody>
     <tr>
-      <td><a href="#introduction"><b>Introduction</b></td>
-      <td><a href="#before-you-start"><b>Before you start</b></td>
-      <td><a href="#front-end-development-techspec-overview"><b>Front-end Development Tech/Spec Overview</b></td>
-      <td><a href="#required-for-any-path"><b>Required for any path</b></td>
+      <td><a href="#introduction"><b>Introduction</b></a></td>
+      <td><a href="#before-you-start"><b>Before you start</b></a></td>
+      <td><a href="#front-end-development-techspec-overview"><b>Front-end Development Tech/Spec Overview</b></a></td>
+      <td><a href="#required-for-any-path"><b>Required for any path</b></a></td>
     </tr>
     <tr>
-      <td><a href="#basic-tools"><b>Basic tools</b></td>
-      <td><a href="#"><b>.....</b></td>
-      <td><a href="#"><b>.....</b></td>
-      <td><a href="#"><b>.....</b></td>
+      <td><a href="#basic-tools"><b>Basic tools</b></a></td>
+      <td><a href="#"><b>.....</b></a></td>
+      <td><a href="#"><b>.....</b></a></td>
+      <td><a href="#"><b>.....</b></a></td>
     </tr>
   </tbody>
 </table>
@@ -150,19 +150,19 @@ Basic tools to get start.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://code.visualstudio.com/" target="_blank"><b>VS Code :ballot_box_with_check:</b></td>
-      <td><a href="https://www.google.com/chrome/" target="_blank"><b>Google Chrome :ballot_box_with_check:</b></td>
-      <td><a href="https://git-scm.com/downloads" target="_blank"><b>Git Bash :ballot_box_with_check:</b></td>
+      <td><a href="https://code.visualstudio.com/" target="_blank"><b>VS Code :ballot_box_with_check:</b></a></td>
+      <td><a href="https://www.google.com/chrome/" target="_blank"><b>Google Chrome :ballot_box_with_check:</b></a></td>
+      <td><a href="https://git-scm.com/downloads" target="_blank"><b>Git Bash :ballot_box_with_check:</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://atom.io/" target="_blank"><b>Atom</b></td>
-      <td><a href="https://www.microsoft.com/en-us/edge" target="_blank"><b>Microsoft Edge</b></td>
-      <td><a href="https://cmder.net/" target="_blank"><b>Cmder</b></td>
+      <td><a href="https://atom.io/" target="_blank"><b>Atom</b></a></td>
+      <td><a href="https://www.microsoft.com/en-us/edge" target="_blank"><b>Microsoft Edge</b></a></td>
+      <td><a href="https://cmder.net/" target="_blank"><b>Cmder</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://www.jetbrains.com/webstorm/" target="_blank"><b>WebStorm</b></td>
-      <td><a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank"><b>Mozilla Firefox</b></td>
-      <td><a href="https://hyper.is/" target="_blank"><b>Hyper</b></td>
+      <td><a href="https://www.jetbrains.com/webstorm/" target="_blank"><b>WebStorm</b></a></td>
+      <td><a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank"><b>Mozilla Firefox</b></a></td>
+      <td><a href="https://hyper.is/" target="_blank"><b>Hyper</b></a></td>
     </tr>
   </tbody>
 </table>
@@ -173,8 +173,16 @@ Basic tools to get start.
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  <a target="_blank"href="https://github.com/FADL285"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/FADL285"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/FADL285"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:MohamedFadl2852@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://github.com/FADL285">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/FADL285">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/FADL285">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:MohamedFadl2852@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
