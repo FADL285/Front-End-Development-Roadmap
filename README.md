@@ -160,34 +160,37 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
 
 # Basic tools
 
-Basic tools to get start.
+<div align="center">
+  <p>Basic tools to get start.</p>
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Text Editor :writing_hand:</b></td>
-      <td><b>Browser :globe_with_meridians:</b></td>
-      <td><b>:man_technologist: Terminal</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://code.visualstudio.com/" target="_blank"><b>VS Code :ballot_box_with_check:</b></a></td>
-      <td><a href="https://www.google.com/chrome/" target="_blank"><b>Google Chrome :ballot_box_with_check:</b></a></td>
-      <td><a href="https://git-scm.com/downloads" target="_blank"><b>Git Bash :ballot_box_with_check:</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://atom.io/" target="_blank"><b>Atom</b></a></td>
-      <td><a href="https://www.microsoft.com/en-us/edge" target="_blank"><b>Microsoft Edge</b></a></td>
-      <td><a href="https://cmder.net/" target="_blank"><b>Cmder</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.jetbrains.com/webstorm/" target="_blank"><b>WebStorm</b></a></td>
-      <td><a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank"><b>Mozilla Firefox</b></a></td>
-      <td><a href="https://hyper.is/" target="_blank"><b>Hyper</b></a></td>
-    </tr>
-  </tbody>
-</table>
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>Text Editor :writing_hand:</b></td>
+        <td><b>Browser :globe_with_meridians:</b></td>
+        <td><b>:man_technologist: Terminal</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://code.visualstudio.com/" target="_blank"><b>VS Code :ballot_box_with_check:</b></a></td>
+        <td><a href="https://www.google.com/chrome/" target="_blank"><b>Google Chrome :ballot_box_with_check:</b></a></td>
+        <td><a href="https://git-scm.com/downloads" target="_blank"><b>Git Bash :ballot_box_with_check:</b></a></td>
+      </tr>
+      <tr>
+        <td><a href="https://atom.io/" target="_blank"><b>Atom</b></a></td>
+        <td><a href="https://www.microsoft.com/en-us/edge" target="_blank"><b>Microsoft Edge</b></a></td>
+        <td><a href="https://cmder.net/" target="_blank"><b>Cmder</b></a></td>
+      </tr>
+      <tr>
+        <td><a href="https://www.jetbrains.com/webstorm/" target="_blank"><b>WebStorm</b></a></td>
+        <td><a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank"><b>Mozilla Firefox</b></a></td>
+        <td><a href="https://hyper.is/" target="_blank"><b>Hyper</b></a></td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
 
 [Code Editors resources :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/code-editors/)
 
@@ -195,29 +198,31 @@ Basic tools to get start.
 
 # Beginner Level:
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td colspan="4"><b>:world_map: Content</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="#html"><b>1- HTML</b></a>
-      </td>
-      <td>
-        <a href="#css"><b>2- CSS</b></a>
-      </td>
-      <td>
-        <a href="#html-css"><b>3- HTML & CSS - (resources & practice)</b></a>
-      </td>
-      <td>
-        <a href="#javascript"><b>4- JavaScript</b></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td colspan="4"><b>:world_map: Content</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="#html"><b>1- HTML</b></a>
+        </td>
+        <td>
+          <a href="#css"><b>2- CSS</b></a>
+        </td>
+        <td>
+          <a href="#html-css"><b>3- HTML & CSS - (resources & practice)</b></a>
+        </td>
+        <td>
+          <a href="#javascript"><b>4- JavaScript</b></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <p align="center">
   <img src="img/html-css-js-diff.jpg" alt="Difference Between HTML, CSS & JS" />
