@@ -245,15 +245,13 @@ HTML stands for Hypertext Markup Language. It is the markup language for buildin
 - [HTML Full Course - Freecodecamp :clapper:](https://youtu.be/pQN-pnXPaVg)
 - [HTML Crash Course For Absolute Beginners - Traversy Media :clapper:](https://www.youtube.com/watch?v=UB1O30fR-EE)
 
-After Learning HTML read this :arrow_right: [HTML Interview Questions :page_facing_up:](https://www.interviewbit.com/html-interview-questions/)
-
 ---
 
 ## CSS:
 
 CSS stands for Cascading Style Sheets. It is the technology to learn after HTML. It is used for styling our HTML. For example, we can use CSS to space our content, colours, fonts, etc.
 
-**Here are some resources to learn HTML**
+**Here are some resources to learn CSS**
 
 - [Learn CSS - Elzero Web School :page_facing_up:](https://elzero.org/learn-css/) :star2:
   - [Learn CSS In Arabic 2021 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
@@ -280,7 +278,41 @@ CSS stands for Cascading Style Sheets. It is the technology to learn after HTML.
 
 ## HTML & CSS - (Resources & Practice)
 
-lorem ........
+In this section, I will recommend some paid courses and youtube videos that explain and build websites using HTML and CSS.
+Plus some websites to practice what you've learned.
+
+**Here are some Paid Courses for HTML & CSS:** :clapper: :capital_abcd: :clapper: :dollar::dollar: <img src="https://badgen.net/badge/Recommended/PR/blue" alt="Personal Recommendation" width="95" />
+
+- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+- [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning/) :arrow_right: `exclude sass from it now`
+- [CSS - The Complete Guide 2021 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) :arrow_right: `exclude sass from it now`
+
+
+**Here are some Youtube Videos for building templates with HTML & CSS:** <img src="https://badgen.net/badge/Recommended/PR/blue" alt="Personal Recommendation" width="95" />
+
+- [Practical HTML & CSS - Elzero Web School :page_facing_up:](https://elzero.org/practical-html-css/)
+    - [HTML And CSS Template 1 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)
+    - [HTML And CSS Template 2 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t)
+- [Design Template Using ( HTML 5 - CSS 3 ) - Unique Coderz Academy :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFq3C3I7sKHjXbFru4rx8qs)
+- [Design Responsive Template Using ( HTML - CSS - Media Query ) - Unique Coderz Academy :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLtFbQRDJ11kG7W2TmVs4gr9FqmZ0Ui551)
+- [How To Make Website Using HTML & CSS | Full Responsive - Easy Tutorials :clapper: :capital_abcd: :clapper:](https://youtu.be/oYRda7UtuhA)
+
+
+**Some challenges for what you have learned, Try 🦾🦾😃
+- [Flexbox Defense Game](http://www.flexboxdefense.com/)
+- [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty|asc&difficulties=1,2&languages=HTML|CSS&types=free)
+- [Codewell](https://www.codewell.cc/challenges)
+- [CSS Battle](https://cssbattle.dev/)
+- [100 Days CSS](https://100dayscss.com/)
+
+
+> After Learning HTML & CSS read this :arrow_right: [HTML Interview Questions :page_facing_up:](https://www.interviewbit.com/html-interview-questions/) & [CSS Interview Questions :page_facing_up:](https://www.interviewbit.com/css-interview-questions/)
+
+---
+
+## JavaScript
+
+Sooooooon.....
 
 ---
 
