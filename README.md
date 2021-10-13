@@ -190,9 +190,9 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
     </tbody>
   </table>
 
-</div>
+  [Code Editors resources :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/code-editors/)
 
-[Code Editors resources :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/code-editors/)
+</div>
 
 ---
 
