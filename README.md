@@ -60,7 +60,7 @@ First, you should read about [The Front-end Developer Profession &nbsp; :newspap
 
 ---
 
-# Front-end Development Tech/Spec Overview &nbsp; <small>`recommended`</small>
+# Front-end Development Tech/Spec Overview &nbsp; :ballot_box_with_check:
 
 ## In this section, you should know:
 
