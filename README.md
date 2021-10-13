@@ -11,6 +11,7 @@
 This is a curated roadmap to becoming a professional Front-end Developer that anyone could use to learn about the practice of front-end development.
 
 ---
+
 <h3 align="center">Link icons:</h3>
 <p align="center">:book: => Official Docs &nbsp; | &nbsp; :clapper: => Video &nbsp; | &nbsp; :page_facing_up: => Article &nbsp; | &nbsp; :clapper: :capital_abcd: :clapper: => Course</p>
 <p align="center">
@@ -19,38 +20,39 @@ This is a curated roadmap to becoming a professional Front-end Developer that an
   <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube English Playlist" width="100" /> => English Playlist
 </p>
 
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td colspan="3"><b>:world_map: Content</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="#introduction"><b>1-Introduction</b></a>
-      </td>
-      <td>
-        <a href="#before-you-start"><b>2-Before you start</b></a>
-      </td>
-      <td>
-        <a href="#front-end-development-techspec-overview"><b>3-Front-end Development Tech/Spec Overview &nbsp; <img src="https://badgen.net/badge/Recommended/PR/blue" width="80" /></b></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#required-for-any-path"><b>4-Required for any path</b></a>
-      </td>
-      <td>
-        <a href="#basic-tools"><b>5-Basic tools</b></a>
-      </td>
-      <td>
-        <a href="#beginner-level"><b>6-Beginner Level (HTML, CSS, JS)</b></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td colspan="3"><b>:world_map: Content</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="#introduction"><b>1-Introduction</b></a>
+        </td>
+        <td>
+          <a href="#before-you-start"><b>2-Before you start</b></a>
+        </td>
+        <td>
+          <a href="#front-end-development-techspec-overview"><b>3-Front-end Development Tech/Spec Overview &nbsp; <img src="https://badgen.net/badge/Recommended/PR/blue" width="80" /></b></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="#required-for-any-path"><b>4-Required for any path</b></a>
+        </td>
+        <td>
+          <a href="#basic-tools"><b>5-Basic tools</b></a>
+        </td>
+        <td>
+          <a href="#beginner-level"><b>6-Beginner Level (HTML, CSS, JS)</b></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
@@ -193,7 +195,6 @@ Basic tools to get start.
 
 # Beginner Level:
 
-
 <table>
   <thead align="center">
     <tr border: none;>
@@ -226,22 +227,20 @@ Basic tools to get start.
 
 HTML stands for Hypertext Markup Language. It is the markup language for building web pages, it is also the building block of the web. HTML is easy to learn and comprehend. With just HTML, you can build a basic website.
 
-
 **Here are some resources to learn HTML**
 
 - [Learning resources and tools for HTML - Front-End Masters :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/html/) :star2:
 - [Learn HTML - Elzero Web School :page_facing_up:](https://elzero.org/learn-html/) :star2:
-    - [Learn HTML In Arabic 2021 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
-    - [HTML Study Plan :page_facing_up:](https://elzero.org/study/html-2021-study-plan/)
-    - [HTML Assignments :page_facing_up:](https://elzero.org/category/assignments/html-assignments/)
+  - [Learn HTML In Arabic 2021 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+  - [HTML Study Plan :page_facing_up:](https://elzero.org/study/html-2021-study-plan/)
+  - [HTML Assignments :page_facing_up:](https://elzero.org/category/assignments/html-assignments/)
 - [MDN - HTML :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 - [HTML tutorial - w3schools :page_facing_up:](https://www.w3schools.com/html/default.asp)
-- [Learn HTML Tutorial || HTML دورة كاملة لتعلم لغة  :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLtFbQRDJ11kHSmfYMvSprAHaPeNlpF4qK) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+- [Learn HTML Tutorial || HTML دورة كاملة لتعلم لغة :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLtFbQRDJ11kHSmfYMvSprAHaPeNlpF4qK) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 - [HTML Full Course - Freecodecamp :clapper:](https://youtu.be/pQN-pnXPaVg)
 - [HTML Crash Course For Absolute Beginners - Traversy Media :clapper:](https://www.youtube.com/watch?v=UB1O30fR-EE)
 
-
-After Learning HTML read this :arrow_right:	[HTML Interview Questions :page_facing_up:](https://www.interviewbit.com/html-interview-questions/)
+After Learning HTML read this :arrow_right: [HTML Interview Questions :page_facing_up:](https://www.interviewbit.com/html-interview-questions/)
 
 ---
 
@@ -252,9 +251,9 @@ CSS stands for Cascading Style Sheets. It is the technology to learn after HTML.
 **Here are some resources to learn HTML**
 
 - [Learn CSS - Elzero Web School :page_facing_up:](https://elzero.org/learn-css/) :star2:
-    - [Learn CSS In Arabic 2021 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
-    - [CSS Study Plan :page_facing_up:](https://elzero.org/study/css-2021-study-plan/)
-    - [CSS Assignments :page_facing_up:](https://elzero.org/category/assignments/css-assignments/)
+  - [Learn CSS In Arabic 2021 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+  - [CSS Study Plan :page_facing_up:](https://elzero.org/study/css-2021-study-plan/)
+  - [CSS Assignments :page_facing_up:](https://elzero.org/category/assignments/css-assignments/)
 - [MDN - CSS :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [Learn CSS Tutorial || CSS دورة كاملة لتعلم لغة :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFENgYWivcxJwFKZp815zXX) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 - [CSS tutorials - w3schools :page_facing_up:](https://www.w3schools.com/css/default.asp)
