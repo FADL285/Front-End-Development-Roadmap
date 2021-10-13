@@ -63,7 +63,7 @@ In 2021 however, front-end development has gone beyond HTML, CSS, and JavaScript
 
 # Before you start:
 
-First, you should read about [The Front-end Developer Profession &nbsp; :newspaper: ](https://frontendmasters.com/guides/learning-roadmap/front-end-developer-profession/)
+First, you should read about [The Front-end Developer Profession &nbsp; :page_facing_up: ](https://frontendmasters.com/guides/learning-roadmap/front-end-developer-profession/)
 
 ## After this section, you should know:
 
@@ -92,17 +92,17 @@ First, you should read about [The Front-end Developer Profession &nbsp; :newspap
 
 > skip what you already familiar with :handshake:
 
-- [The Front-end Development Tech/Spec Overview &nbsp; :newspaper:](https://frontendmasters.com/guides/learning-roadmap/front-end-development-overview/)
-- [World Wide Web (WWW) Basic Mechanics &nbsp; :newspaper:](https://frontendmasters.com/guides/learning-roadmap/www-basic-mechanics/)
-- [HTTP & Web Sockets &nbsp; :newspaper:](https://frontendmasters.com/guides/learning-roadmap/http/)
+- [The Front-end Development Tech/Spec Overview &nbsp; :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/front-end-development-overview/)
+- [World Wide Web (WWW) Basic Mechanics &nbsp; :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/www-basic-mechanics/)
+- [HTTP & Web Sockets &nbsp; :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/http/)
 - [How the Internet Works in 5 Minutes &nbsp; :clapper: ](https://youtu.be/7_LPdttKXPc)
 - [What is the Internet? - code.org &nbsp; :clapper: ](https://youtu.be/Dxcc6ycZ73M)
-- [What is a web browser? &nbsp; :newspaper:](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)
-- [How Browsers Work &nbsp; :newspaper:](https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/)
-- [How does the Internet work? &nbsp; :newspaper:](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-- [An overview of HTTP &nbsp; :newspaper:](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-- [What is DNS? &nbsp; :newspaper:](https://aws.amazon.com/route53/what-is-dns/)
-- [What is a domain name? &nbsp; :newspaper:](https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/)
+- [What is a web browser? &nbsp; :page_facing_up:](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)
+- [How Browsers Work &nbsp; :page_facing_up:](https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/)
+- [How does the Internet work? &nbsp; :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [An overview of HTTP &nbsp; :page_facing_up:](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [What is DNS? &nbsp; :page_facing_up:](https://aws.amazon.com/route53/what-is-dns/)
+- [What is a domain name? &nbsp; :page_facing_up:](https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/)
 
 ---
 
@@ -124,7 +124,7 @@ The terminal is an interface used to execute text commands, and it gives you acc
 
 - [Learn Command Line &nbsp; :clapper: :clapper: ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT) `Arabic - Playlist`
 - [Command Line Crash Course - Freecodecamp &nbsp; :clapper: ](https://youtu.be/yz7nYlnXLfE)
-- [Command line crash course &nbsp; :newspaper: ](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
+- [Command line crash course &nbsp; :page_facing_up: ](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
 
 ## Git - Version Control
 
@@ -136,13 +136,13 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
 
 \*\*Here are some resources to learn Git & GitHub:
 
-- [Git Handbook - Github guides &nbsp; :newspaper: ](https://guides.github.com/introduction/git-handbook/)
+- [Git Handbook - Github guides &nbsp; :page_facing_up: ](https://guides.github.com/introduction/git-handbook/)
 - [Git Videos &nbsp; :clapper: :clapper: ](https://git-scm.com/videos)
-- [Git book - Git &nbsp; :newspaper: ](https://git-scm.com/book/en/v2)
-- [Github Guides &nbsp; :newspaper: ](https://guides.github.com/activities/hello-world/)
+- [Git book - Git &nbsp; :page_facing_up: ](https://git-scm.com/book/en/v2)
+- [Github Guides &nbsp; :page_facing_up: ](https://guides.github.com/activities/hello-world/)
 - [Version Control with Git - Udacity &nbsp; :clapper: :clapper: ](https://www.udacity.com/course/version-control-with-git--ud123)
 - [Introduction to Git and GitHub &nbsp; :clapper: :clapper: ](https://www.coursera.org/learn/introduction-git-github)
-- [An introduction to Git - Freecodecamp &nbsp; :newspaper: ](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
+- [An introduction to Git - Freecodecamp &nbsp; :page_facing_up: ](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
 - [Git Tutorial for Beginners: Learn Git in 1 Hour - Code with Mosh &nbsp; :clapper: ](https://youtu.be/8JJ101D3knE)
 - [Learn Git and Github &nbsp; :clapper: :clapper: ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) `Arabic - Playlist`
 - [Git and GitHub for Beginners - Crash Course - Freecodecamp &nbsp; :clapper: ](https://youtu.be/RGOj5yH7evk)
