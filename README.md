@@ -265,6 +265,7 @@ CSS stands for Cascading Style Sheets. It is the technology to learn after HTML.
 - [CSS Tutorial - Zero to Hero - Freecodecamp :clapper:](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [HTML5 & CSS Development - Udemy :clapper:](https://www.youtube.com/watch?v=5bMdjkfvONE)
 - [Flexbox CSS in 20 minutes - Traversy media :clapper:](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+- [CSS Variables Tutorial (CSS Custom Properties) - Traversy media :clapper:](https://youtu.be/sQUB039MG0I)
 
 **The basics of CSS you need to learn are:**
 
@@ -273,7 +274,7 @@ CSS stands for Cascading Style Sheets. It is the technology to learn after HTML.
 - Responsive Design & Media Queries :arrow_right: [CSS Media Queries :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-media-queries/)
 - Animations :arrow_right: [CSS Transitions, Transforms & Animation :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-transitions-transforms-animations/)
 - Web Fonts, CSS Icons, Google Fonts :arrow_right: [CSS Fonts & Icons :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-fonts-and-icons/)
-- CSS Practices :arrow_right: [CSS Practices :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-practices/)
+- CSS Variables & CSS Practices :arrow_right: [CSS Practices :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-practices/)
 
 ---
 
