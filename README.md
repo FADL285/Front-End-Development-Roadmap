@@ -122,7 +122,7 @@ The terminal is an interface used to execute text commands, and it gives you acc
 
 **Here are some resources to learn command line:**
 
-- [Learn Command Line &nbsp; :clapper: :clapper: ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT) `Arabic - Playlist`
+- [Learn Command Line &nbsp; :clapper: :capital_abcd: :clapper: ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT) `Arabic - Playlist`
 - [Command Line Crash Course - Freecodecamp &nbsp; :clapper: ](https://youtu.be/yz7nYlnXLfE)
 - [Command line crash course &nbsp; :page_facing_up: ](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
 
@@ -137,14 +137,14 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
 \*\*Here are some resources to learn Git & GitHub:
 
 - [Git Handbook - Github guides &nbsp; :page_facing_up: ](https://guides.github.com/introduction/git-handbook/)
-- [Git Videos &nbsp; :clapper: :clapper: ](https://git-scm.com/videos)
+- [Git Videos &nbsp; :clapper: :capital_abcd: :clapper: ](https://git-scm.com/videos)
 - [Git book - Git &nbsp; :page_facing_up: ](https://git-scm.com/book/en/v2)
 - [Github Guides &nbsp; :page_facing_up: ](https://guides.github.com/activities/hello-world/)
-- [Version Control with Git - Udacity &nbsp; :clapper: :clapper: ](https://www.udacity.com/course/version-control-with-git--ud123)
-- [Introduction to Git and GitHub &nbsp; :clapper: :clapper: ](https://www.coursera.org/learn/introduction-git-github)
+- [Version Control with Git - Udacity &nbsp; :clapper: :capital_abcd: :clapper: ](https://www.udacity.com/course/version-control-with-git--ud123)
+- [Introduction to Git and GitHub &nbsp; :clapper: :capital_abcd: :clapper: ](https://www.coursera.org/learn/introduction-git-github)
 - [An introduction to Git - Freecodecamp &nbsp; :page_facing_up: ](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
 - [Git Tutorial for Beginners: Learn Git in 1 Hour - Code with Mosh &nbsp; :clapper: ](https://youtu.be/8JJ101D3knE)
-- [Learn Git and Github &nbsp; :clapper: :clapper: ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) `Arabic - Playlist`
+- [Learn Git and Github &nbsp; :clapper: :capital_abcd: :clapper: ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) `Arabic - Playlist`
 - [Git and GitHub for Beginners - Crash Course - Freecodecamp &nbsp; :clapper: ](https://youtu.be/RGOj5yH7evk)
 
 ---
