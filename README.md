@@ -20,7 +20,7 @@ This is a curated roadmap to becoming a professional Front-end Developer that an
     <tr>
       <td><a href="#introduction"><b>1-Introduction</b></a></td>
       <td><a href="#before-you-start"><b>2-Before you start</b></a></td>
-      <td><a href="#front-end-development-techspec-overview"><b>3-Front-end Development Tech/Spec Overview</b></a></td>
+      <td><a href="#front-end-development-techspec-overview"><b>3-Front-end Development Tech/Spec Overview :ballot_box_with_check:</b></a></td>
       <td><a href="#required-for-any-path"><b>4-Required for any path</b></a></td>
     </tr>
     <tr>
@@ -60,7 +60,7 @@ First, you should read about [The Front-end Developer Profession &nbsp; :newspap
 
 ---
 
-# Front-end Development Tech/Spec Overview &nbsp; :ballot_box_with_check:
+# Front-end Development Tech/Spec Overview
 
 ## In this section, you should know:
 
