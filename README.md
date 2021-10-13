@@ -18,13 +18,13 @@ This is a curated roadmap to becoming a professional Front-end Developer that an
   </thead>
   <tbody>
     <tr>
-      <td><a href="#introduction"><b>Introduction</b></a></td>
-      <td><a href="#before-you-start"><b>Before you start</b></a></td>
-      <td><a href="#front-end-development-techspec-overview"><b>Front-end Development Tech/Spec Overview</b></a></td>
-      <td><a href="#required-for-any-path"><b>Required for any path</b></a></td>
+      <td><a href="#introduction"><b>1-Introduction</b></a></td>
+      <td><a href="#before-you-start"><b>2-Before you start</b></a></td>
+      <td><a href="#front-end-development-techspec-overview"><b>3-Front-end Development Tech/Spec Overview</b></a></td>
+      <td><a href="#required-for-any-path"><b>4-Required for any path</b></a></td>
     </tr>
     <tr>
-      <td><a href="#basic-tools"><b>Basic tools</b></a></td>
+      <td><a href="#basic-tools"><b>5-Basic tools</b></a></td>
       <td><a href="#"><b>.....</b></a></td>
       <td><a href="#"><b>.....</b></a></td>
       <td><a href="#"><b>.....</b></a></td>
