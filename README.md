@@ -9,6 +9,9 @@
 This is a curated roadmap to becoming a professional Front-end Developer that anyone could use to learn about the practice of front-end development.
 
 ---
+<h3 align="center">Link icons:</h3>
+<p align="center">:book: => Official Docs &nbsp; | &nbsp; :clapper: => Video &nbsp; | &nbsp; :page_facing_up: => Article &nbsp; | &nbsp; :clapper: :capital_abcd: :clapper: => Course</p>
+
 
 <table>
   <thead align="center">
@@ -18,16 +21,26 @@ This is a curated roadmap to becoming a professional Front-end Developer that an
   </thead>
   <tbody>
     <tr>
-      <td><a href="#introduction"><b>1-Introduction</b></a></td>
-      <td><a href="#before-you-start"><b>2-Before you start</b></a></td>
-      <td><a href="#front-end-development-techspec-overview"><b>3-Front-end Development Tech/Spec Overview :ballot_box_with_check:</b></a></td>
-      <td><a href="#required-for-any-path"><b>4-Required for any path</b></a></td>
+      <td>
+        <a href="#introduction"><b>1-Introduction</b></a>
+      </td>
+      <td>
+        <a href="#before-you-start"><b>2-Before you start</b></a>
+      </td>
+      <td>
+        <a href="#front-end-development-techspec-overview"><b>3-Front-end Development Tech/Spec Overview &nbsp; <img src="https://badgen.net/badge/Recommended/PR/blue" /></b></a>
+      </td>
     </tr>
     <tr>
-      <td><a href="#basic-tools"><b>5-Basic tools</b></a></td>
-      <td><a href="#"><b>.....</b></a></td>
-      <td><a href="#"><b>.....</b></a></td>
-      <td><a href="#"><b>.....</b></a></td>
+      <td>
+        <a href="#required-for-any-path"><b>4-Required for any path</b></a>
+      </td>
+      <td>
+        <a href="#basic-tools"><b>5-Basic tools</b></a>
+      </td>
+      <td>
+        <a href="#"><b>.....</b></a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -38,7 +51,7 @@ This is a curated roadmap to becoming a professional Front-end Developer that an
 
 Front-end development involves using HTML, CSS, and JavaScript to build a client-side application. The client-side of an online application is the visual part of a web application and also what a user interacts with when an application is opened: colours, fonts, buttons, navigations, animations, etc.
 
-[Introduction To Front End &nbsp; :movie_camera:](https://youtu.be/6meCVoEo18o) &nbsp; `recommended / optional`
+[Introduction To Front End &nbsp; :clapper:](https://youtu.be/6meCVoEo18o) &nbsp; `recommended / optional`
 
 Front-end development includes the user interface of an application. Everything a user interacts with when a user visits a website such as a login or sign-up page, homepage, contact page falls under the front-end development term.
 
@@ -82,8 +95,8 @@ First, you should read about [The Front-end Developer Profession &nbsp; :newspap
 - [The Front-end Development Tech/Spec Overview &nbsp; :newspaper:](https://frontendmasters.com/guides/learning-roadmap/front-end-development-overview/)
 - [World Wide Web (WWW) Basic Mechanics &nbsp; :newspaper:](https://frontendmasters.com/guides/learning-roadmap/www-basic-mechanics/)
 - [HTTP & Web Sockets &nbsp; :newspaper:](https://frontendmasters.com/guides/learning-roadmap/http/)
-- [How the Internet Works in 5 Minutes &nbsp; :movie_camera: ](https://youtu.be/7_LPdttKXPc)
-- [What is the Internet? - code.org &nbsp; :movie_camera: ](https://youtu.be/Dxcc6ycZ73M)
+- [How the Internet Works in 5 Minutes &nbsp; :clapper: ](https://youtu.be/7_LPdttKXPc)
+- [What is the Internet? - code.org &nbsp; :clapper: ](https://youtu.be/Dxcc6ycZ73M)
 - [What is a web browser? &nbsp; :newspaper:](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)
 - [How Browsers Work &nbsp; :newspaper:](https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/)
 - [How does the Internet work? &nbsp; :newspaper:](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
@@ -109,8 +122,8 @@ The terminal is an interface used to execute text commands, and it gives you acc
 
 **Here are some resources to learn command line:**
 
-- [Learn Command Line &nbsp; :movie_camera: :movie_camera: ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT) `Arabic - Playlist`
-- [Command Line Crash Course - Freecodecamp &nbsp; :movie_camera: ](https://youtu.be/yz7nYlnXLfE)
+- [Learn Command Line &nbsp; :clapper: :clapper: ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT) `Arabic - Playlist`
+- [Command Line Crash Course - Freecodecamp &nbsp; :clapper: ](https://youtu.be/yz7nYlnXLfE)
 - [Command line crash course &nbsp; :newspaper: ](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
 
 ## Git - Version Control
@@ -124,15 +137,15 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
 \*\*Here are some resources to learn Git & GitHub:
 
 - [Git Handbook - Github guides &nbsp; :newspaper: ](https://guides.github.com/introduction/git-handbook/)
-- [Git Videos &nbsp; :movie_camera: :movie_camera: ](https://git-scm.com/videos)
+- [Git Videos &nbsp; :clapper: :clapper: ](https://git-scm.com/videos)
 - [Git book - Git &nbsp; :newspaper: ](https://git-scm.com/book/en/v2)
 - [Github Guides &nbsp; :newspaper: ](https://guides.github.com/activities/hello-world/)
-- [Version Control with Git - Udacity &nbsp; :movie_camera: :movie_camera: ](https://www.udacity.com/course/version-control-with-git--ud123)
-- [Introduction to Git and GitHub &nbsp; :movie_camera: :movie_camera: ](https://www.coursera.org/learn/introduction-git-github)
+- [Version Control with Git - Udacity &nbsp; :clapper: :clapper: ](https://www.udacity.com/course/version-control-with-git--ud123)
+- [Introduction to Git and GitHub &nbsp; :clapper: :clapper: ](https://www.coursera.org/learn/introduction-git-github)
 - [An introduction to Git - Freecodecamp &nbsp; :newspaper: ](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
-- [Git Tutorial for Beginners: Learn Git in 1 Hour - Code with Mosh &nbsp; :movie_camera: ](https://youtu.be/8JJ101D3knE)
-- [Learn Git and Github &nbsp; :movie_camera: :movie_camera: ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) `Arabic - Playlist`
-- [Git and GitHub for Beginners - Crash Course - Freecodecamp &nbsp; :movie_camera: ](https://youtu.be/RGOj5yH7evk)
+- [Git Tutorial for Beginners: Learn Git in 1 Hour - Code with Mosh &nbsp; :clapper: ](https://youtu.be/8JJ101D3knE)
+- [Learn Git and Github &nbsp; :clapper: :clapper: ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) `Arabic - Playlist`
+- [Git and GitHub for Beginners - Crash Course - Freecodecamp &nbsp; :clapper: ](https://youtu.be/RGOj5yH7evk)
 
 ---
 
