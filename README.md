@@ -293,6 +293,7 @@ Plus some websites to practice what you've learned.
 - [Practical HTML & CSS - Elzero Web School :page_facing_up:](https://elzero.org/practical-html-css/)
     - [HTML And CSS Template 1 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)
     - [HTML And CSS Template 2 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t)
+    - [HTML And CSS Template 3 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc)
 - [Design Template Using ( HTML 5 - CSS 3 ) - Unique Coderz Academy :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFq3C3I7sKHjXbFru4rx8qs)
 - [Design Responsive Template Using ( HTML - CSS - Media Query ) - Unique Coderz Academy :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLtFbQRDJ11kG7W2TmVs4gr9FqmZ0Ui551)
 - [How To Make Website Using HTML & CSS | Full Responsive - Easy Tutorials :clapper: :capital_abcd: :clapper:](https://youtu.be/oYRda7UtuhA)
