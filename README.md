@@ -330,6 +330,7 @@ Plus some websites to practice what you've learned.
 - [CSS Battle](https://cssbattle.dev/)
 - [100 Days CSS](https://100dayscss.com/)
 
+<br />
 
 > After Learning HTML & CSS read this :arrow_right: [HTML Interview Questions :page_facing_up:](https://www.interviewbit.com/html-interview-questions/) & [CSS Interview Questions :page_facing_up:](https://www.interviewbit.com/css-interview-questions/)
 
@@ -342,12 +343,13 @@ JavaScript is one of the most popular programming languages in the world. It is 
 > 💡💡 Learning Javascript and practicing on it continues with you to the end of the path and will not end.
 
 **On this level, we will learn the basics of JavaScript**
-- Basic Syntax
-- DOM Manipulation
+- [JavaScript Fundamentals](https://frontendmasters.com/guides/learning-roadmap/javascript-fundamentals/)
+- [DOM Manipulation & BOM](https://frontendmasters.com/guides/learning-roadmap/dom-bom-cssom/)
 - Fetch API & JSON
-- ES6+ & Modular JS
-- Object-oriented Programming (OOP)
-- Regular Expressions (Regex) `general skill`
+- [ES6+ & Modular JS](https://frontendmasters.com/guides/learning-roadmap/javascript-modules-scripts/)
+- [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+- [Object-oriented Programming (OOP)](https://frontendmasters.com/guides/learning-roadmap/js-oop/)
+- [Regular Expressions (Regex)](https://frontendmasters.com/guides/learning-roadmap/javascript-regular-expressions/) `general skill`
 
 <br />
 
@@ -385,8 +387,14 @@ JavaScript is one of the most popular programming languages in the world. It is 
 
 **Here are some Paid Courses for JavaScript:** :clapper: :capital_abcd: :clapper: :dollar::dollar: <img src="https://badgen.net/badge/Recommended/PR/blue" alt="Personal Recommendation" width="95" />
 
-- ...
-- ...
+- [JavaScript - The Complete Guide 2021 (Beginner + Advanced) :clapper: :capital_abcd: :clapper:](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) :star2:
+- [Modern JavaScript (Complete guide, from Novice to Ninja) :clapper: :capital_abcd: :clapper:](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/)
+- [Modern JavaScript From The Beginning  :clapper: :capital_abcd: :clapper:](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+- [50 Projects In 50 Days - HTML, CSS & JavaScript  :clapper: :capital_abcd: :clapper:](https://www.udemy.com/course/50-projects-50-days/)
+
+<br />
+
+> After Learning JavaScript read this :arrow_right: [JavaScript Interview Questions :page_facing_up:](https://github.com/FADL285/javascript-interview-questions)
 
 ---
 
