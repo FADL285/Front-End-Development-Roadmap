@@ -47,7 +47,7 @@ This is a curated roadmap to becoming a professional Front-end Developer that an
           <a href="#basic-tools"><b>5-Basic tools</b></a>
         </td>
         <td>
-          <a href="#beginner-level"><b>6-Beginner Level (HTML, CSS, JS)</b></a>
+          <a href="#beginner-level"><b>6-Level One (HTML, CSS, JS)</b></a>
         </td>
       </tr>
     </tbody>
@@ -207,7 +207,7 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
 
 ---
 
-# Beginner Level:
+# Level One:
 
 <div align="center">
   <table>
@@ -327,6 +327,13 @@ Plus some websites to practice what you've learned.
 JavaScript is one of the most popular programming languages in the world. It is the language of the web. As a front-end developer, it is required you learn JavaScript. JavaScript enables us to create dynamic content. When you create your HTML structure and your style with your CSS, JavaScript makes the website dynamic and alive.
 
 > 💡💡 This stage continues with you to the end of the path and will not end.
+
+**On this level, we will learn the basics of JavaScript**
+- Basic Syntax
+- DOM Manipulation
+- ES6+ & Modular JS
+- Fetch API & JSON
+- Regular Expressions (Regex) `general skill`
 
 ---
 
