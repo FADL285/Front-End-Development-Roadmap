@@ -47,7 +47,7 @@ This is a curated roadmap to becoming a professional Front-end Developer that an
           <a href="#basic-tools"><b>5-Basic tools</b></a>
         </td>
         <td>
-          <a href="#beginner-level"><b>6-Level One (HTML, CSS, JS)</b></a>
+          <a href="#level-one"><b>6-Level One (HTML, CSS, JS)</b> ✨</a>
         </td>
       </tr>
     </tbody>
@@ -108,6 +108,8 @@ First, you should read about [The Front-end Developer Profession &nbsp; :page_fa
 - What is Domain name
 - Hosting
 
+<br />
+
 ## Here are some resources:
 
 > skip what you already familiar with :handshake:
@@ -153,6 +155,8 @@ Git is a version control system that enables developers to track changes in thei
 ## Github
 
 GitHub is a code hosting platform for software development. GitHub lets teams work together on projects and it is also used for version control. It can be used among teams to collaborate on a project. For example, a team of developers wants to build a web application and everyone is given a task that has to be updated daily while working on the project, in this case, Github helps them build a centralized repository where each team member can make updates or manage the code file or repository.
+
+<br />
 
 **Here are some resources to learn Git & GitHub:**
 
@@ -243,7 +247,7 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
 
 HTML stands for Hypertext Markup Language. It is the markup language for building web pages, it is also the building block of the web. HTML is easy to learn and comprehend. With just HTML, you can build a basic website.
 
-**Here are some resources to learn HTML**
+**Here are some resources to learn HTML:**
 
 - [Learning resources and tools for HTML - Front-End Masters :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/html/) :star2:
 - [Learn HTML - Elzero Web School :page_facing_up:](https://elzero.org/learn-html/) :star2:
@@ -262,12 +266,12 @@ HTML stands for Hypertext Markup Language. It is the markup language for buildin
 
 CSS stands for Cascading Style Sheets. It is the technology to learn after HTML. It is used for styling our HTML. For example, we can use CSS to space our content, colours, fonts, etc.
 
-**Here are some resources to learn CSS**
+**Here are some resources to learn CSS:**
 
 - [Learn CSS - Elzero Web School :page_facing_up:](https://elzero.org/learn-css/) :star2:
-  - [Learn CSS In Arabic 2021 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
-  - [CSS Study Plan :page_facing_up:](https://elzero.org/study/css-2021-study-plan/)
-  - [CSS Assignments :page_facing_up:](https://elzero.org/category/assignments/css-assignments/)
+    - [Learn CSS In Arabic 2021 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+    - [CSS Study Plan :page_facing_up:](https://elzero.org/study/css-2021-study-plan/)
+    - [CSS Assignments :page_facing_up:](https://elzero.org/category/assignments/css-assignments/)
 - [MDN - CSS :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [Learn CSS Tutorial || CSS دورة كاملة لتعلم لغة :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFENgYWivcxJwFKZp815zXX) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 - [CSS tutorials - w3schools :page_facing_up:](https://www.w3schools.com/css/default.asp)
@@ -275,6 +279,8 @@ CSS stands for Cascading Style Sheets. It is the technology to learn after HTML.
 - [HTML5 & CSS Development - Udemy :clapper:](https://www.youtube.com/watch?v=5bMdjkfvONE)
 - [Flexbox CSS in 20 minutes - Traversy media :clapper:](https://www.youtube.com/watch?v=JJSoEo8JSnc)
 - [CSS Variables Tutorial (CSS Custom Properties) - Traversy media :clapper:](https://youtu.be/sQUB039MG0I)
+
+<br />
 
 **The basics of CSS you need to learn are:**
 
@@ -298,6 +304,7 @@ Plus some websites to practice what you've learned.
 - [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning/) :arrow_right: `exclude sass from it now`
 - [CSS - The Complete Guide 2021 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) :arrow_right: `exclude sass from it now`
 
+<br />
 
 **Here are some Youtube Videos for building templates with HTML & CSS:** <img src="https://badgen.net/badge/Recommended/PR/blue" alt="Personal Recommendation" width="95" />
 
@@ -307,10 +314,16 @@ Plus some websites to practice what you've learned.
     - [HTML And CSS Template 3 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc)
 - [Design Template Using ( HTML 5 - CSS 3 ) - Unique Coderz Academy :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFq3C3I7sKHjXbFru4rx8qs)
 - [Design Responsive Template Using ( HTML - CSS - Media Query ) - Unique Coderz Academy :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLtFbQRDJ11kG7W2TmVs4gr9FqmZ0Ui551)
+- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+    - [Build a Responsive Website | HTML, CSS Grid, Flexbox & More :clapper:](https://youtu.be/p0bGHP-PXD4)
+    - [Build a Modern Landing Page Website | HTML & CSS :clapper:](https://youtu.be/X1dz0xRbSJc)
+    - [Build An HTML5 Website With A Responsive Layout :clapper:](https://youtu.be/Wm6CUkswsNw)
+    - [Pluralsight Login Page Clone - HTML & CSS :clapper:](https://youtu.be/wIx1O5Y5EB4)
 - [How To Make Website Using HTML & CSS | Full Responsive - Easy Tutorials :clapper: :capital_abcd: :clapper:](https://youtu.be/oYRda7UtuhA)
 
+<br />
 
-**Some challenges for what you have learned, Try 🦾🦾😃
+**Some challenges for what you have learned, Try** 🦾🦾😃
 - [Flexbox Defense Game](http://www.flexboxdefense.com/)
 - [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty|asc&difficulties=1,2&languages=HTML|CSS&types=free)
 - [Codewell](https://www.codewell.cc/challenges)
@@ -326,14 +339,54 @@ Plus some websites to practice what you've learned.
 
 JavaScript is one of the most popular programming languages in the world. It is the language of the web. As a front-end developer, it is required you learn JavaScript. JavaScript enables us to create dynamic content. When you create your HTML structure and your style with your CSS, JavaScript makes the website dynamic and alive.
 
-> 💡💡 This stage continues with you to the end of the path and will not end.
+> 💡💡 Learning Javascript and practicing on it continues with you to the end of the path and will not end.
 
 **On this level, we will learn the basics of JavaScript**
 - Basic Syntax
 - DOM Manipulation
-- ES6+ & Modular JS
 - Fetch API & JSON
+- ES6+ & Modular JS
+- Object-oriented Programming (OOP)
 - Regular Expressions (Regex) `general skill`
+
+<br />
+
+**Here are some resources to learn JavaScript:**
+
+- [Learn CSS - Elzero Web School :page_facing_up:](https://elzero.org/learn-javascript/) :star2:
+  - [Learn JavaScript In Arabic 2021 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+- [MDN - JavaScript :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/)
+- [JavaScript.INFO :page_facing_up:](https://javascript.info/intro)
+- [Eloquent JavaScript 📕](https://eloquentjavascript.net/)
+- [Learn JavaScript - Freecodecamp :clapper:](https://youtu.be/PkZNo7MFNFg)
+- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+    - [JavaScript Crash Course For Beginners :clapper:](https://youtu.be/hdI2bqOjy3c)
+    - DOM Crash Course [Part #1 :clapper:](https://youtu.be/0ik6X4DJKCc) - [Part #2 :clapper:](https://youtu.be/mPd2aJXCZ2g) - [Part #3 :clapper:](https://youtu.be/wK2cBMcDTss) - [Part #4 (Final Project) :clapper:](https://youtu.be/i37KVt_IcXw)
+    - [Fetch API Introduction :clapper:](https://youtu.be/Oive66jrwBs)
+    - [JSON Crash Course :clapper:](https://youtu.be/wI1CWzNtE-M)
+    - [JavaScript OOP Crash Course (ES5 & ES6) :clapper:](https://youtu.be/vDJpGenyHaA)
+- [JavaScript Tutorial for Beginners - Clever programmers :clapper:](https://youtu.be/Qqx_wzMmFeA)
+- [JavaScript Tutorial for Beginners - Programming with Mosh :clapper:](https://youtu.be/W6NZfCO5SIk)
+
+<br />
+
+**Here are some Youtube Videos for practice on JavaScript.:**
+
+- [JavaScript Practice - Elzero Web School :page_facing_up:](https://elzero.org/javascript-practice/)
+- [Build 15 JavaScript Projects - Vanilla JavaScript Course - FreeCodeCamp :clapper:](https://youtu.be/3PHXvlpOkf4)
+- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+    - [Build 5 Projects With HTML, CSS & JavaScript :clapper:](https://youtu.be/JkeyKeK3V24)
+    - [Build a Netflix Landing Page Clone with HTML, CSS & JS :clapper:](https://youtu.be/P7t13SGytRk)
+- [Learn JavaScript by Building 7 Games - Full Course - FreeCodeCamp :clapper:](https://youtu.be/lhNdUVh3qCc)
+- [Build A Weather App in HTML CSS & JavaScript | Weather App in JavaScript :clapper:](https://youtu.be/c1r-NqYkFPc)
+- [Build A Music App With Javascript Tutorial :clapper:](https://youtu.be/2VJlzeEVL8A)
+
+<br />
+
+**Here are some Paid Courses for JavaScript:** :clapper: :capital_abcd: :clapper: :dollar::dollar: <img src="https://badgen.net/badge/Recommended/PR/blue" alt="Personal Recommendation" width="95" />
+
+- ...
+- ...
 
 ---
 
