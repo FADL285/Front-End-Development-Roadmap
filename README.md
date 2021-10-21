@@ -313,7 +313,7 @@ Plus some websites to practice what you've learned.
 
 ## JavaScript
 
-Sooooooon.....
+JavaScript is one of the most popular programming languages in the world. It is the language of the web. As a front-end developer, it is required you learn JavaScript. JavaScript enables us to create dynamic content. When you create your HTML structure and your style with your CSS, JavaScript makes the website dynamic and alive.
 
 ---
 
