@@ -52,6 +52,17 @@ This is a curated roadmap to becoming a professional Front-end Developer that an
       </tr>
     </tbody>
   </table>
+  
+  <br />
+  
+  <div>
+    <img src="https://badgen.net/badge/Note/%F0%9F%92%A1/orange" alt="Important Note" width="120"/>
+    <p>
+      <strong>
+        Any sources included in this roadmap are personal recommendations. You can choose one or more sources if you wish, or you can search for other sources.
+      </strong>
+    </p>
+  </div>
 </div>
 
 ---
@@ -314,6 +325,8 @@ Plus some websites to practice what you've learned.
 ## JavaScript
 
 JavaScript is one of the most popular programming languages in the world. It is the language of the web. As a front-end developer, it is required you learn JavaScript. JavaScript enables us to create dynamic content. When you create your HTML structure and your style with your CSS, JavaScript makes the website dynamic and alive.
+
+> 💡💡 This stage continues with you to the end of the path and will not end.
 
 ---
 
