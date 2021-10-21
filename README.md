@@ -162,6 +162,7 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
 
 - [Git Handbook - Github guides &nbsp; :page_facing_up: ](https://guides.github.com/introduction/git-handbook/)
 - [Git Videos &nbsp; :clapper: :capital_abcd: :clapper: ](https://git-scm.com/videos)
+- [Git Cheat Sheet repo :page_facing_up:](https://github.com/FADL285/git-cheat-sheet)
 - [Git book - Git &nbsp; :page_facing_up: ](https://git-scm.com/book/en/v2)
 - [Github Guides &nbsp; :page_facing_up: ](https://guides.github.com/activities/hello-world/)
 - [Version Control with Git - Udacity &nbsp; :clapper: :capital_abcd: :clapper: ](https://www.udacity.com/course/version-control-with-git--ud123)
@@ -363,12 +364,13 @@ JavaScript is one of the most popular programming languages in the world. It is 
 - [Learn JavaScript - Freecodecamp :clapper:](https://youtu.be/PkZNo7MFNFg)
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
     - [JavaScript Crash Course For Beginners :clapper:](https://youtu.be/hdI2bqOjy3c)
-    - DOM Crash Course [Part #1 :clapper:](https://youtu.be/0ik6X4DJKCc) - [Part #2 :clapper:](https://youtu.be/mPd2aJXCZ2g) - [Part #3 :clapper:](https://youtu.be/wK2cBMcDTss) - [Part #4 (Final Project) :clapper:](https://youtu.be/i37KVt_IcXw)
+    - DOM Crash Course [Part #1 :clapper:](https://youtu.be/0ik6X4DJKCc) - [Part #2 :clapper:](https://youtu.be/mPd2aJXCZ2g) - [Part #3 :clapper:](https://youtu.be/wK2cBMcDTss)     - [Part #4 (Final Project) :clapper:](https://youtu.be/i37KVt_IcXw)
     - [Fetch API Introduction :clapper:](https://youtu.be/Oive66jrwBs)
     - [JSON Crash Course :clapper:](https://youtu.be/wI1CWzNtE-M)
     - [JavaScript OOP Crash Course (ES5 & ES6) :clapper:](https://youtu.be/vDJpGenyHaA)
 - [JavaScript Tutorial for Beginners - Clever programmers :clapper:](https://youtu.be/Qqx_wzMmFeA)
 - [JavaScript Tutorial for Beginners - Programming with Mosh :clapper:](https://youtu.be/W6NZfCO5SIk)
+- [30 Days of JavaScript repo :page_facing_up:](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
 <br />
 
@@ -394,7 +396,7 @@ JavaScript is one of the most popular programming languages in the world. It is 
 
 <br />
 
-> After Learning JavaScript read this :arrow_right: [JavaScript Interview Questions :page_facing_up:](https://github.com/FADL285/javascript-interview-questions)
+> After Learning JavaScript read this :arrow_right: [JavaScript Interview Questions :page_facing_up:](https://github.com/FADL285/javascript-interview-questions) & [37 Essential JavaScript Interview Questions :page_facing_up:](https://www.toptal.com/javascript/interview-questions)
 
 ---
 
