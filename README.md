@@ -52,7 +52,7 @@ This is a curated roadmap to becoming a professional Front-end Developer that an
       </tr>
       <tr>
         <td>
-          <a href="#level-two"><b>7-Level Two/b> ✨</a>
+          <a href="#level-two"><b>7-Level Two</b> ✨</a>
         </td>
         <td>
           <a href="#"><b>8- (●'◡'●)</b></a>
