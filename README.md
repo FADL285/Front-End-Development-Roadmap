@@ -50,6 +50,17 @@ This is a curated roadmap to becoming a professional Front-end Developer that an
           <a href="#level-one"><b>6-Level One (HTML, CSS, JS)</b> ✨</a>
         </td>
       </tr>
+      <tr>
+        <td>
+          <a href="#level-two"><b>7-Level Two/b> ✨</a>
+        </td>
+        <td>
+          <a href="#"><b>8- (●'◡'●)</b></a>
+        </td>
+        <td>
+          <a href="#"><b>9- *^____^*</b></a>
+        </td>
+      </tr>
     </tbody>
   </table>
   
@@ -337,7 +348,7 @@ Plus some websites to practice what you've learned.
 
 ---
 
-## JavaScript
+## JavaScript:
 
 JavaScript is one of the most popular programming languages in the world. It is the language of the web. As a front-end developer, it is required you learn JavaScript. JavaScript enables us to create dynamic content. When you create your HTML structure and your style with your CSS, JavaScript makes the website dynamic and alive.
 
@@ -397,6 +408,63 @@ JavaScript is one of the most popular programming languages in the world. It is 
 <br />
 
 > After Learning JavaScript read this :arrow_right: [JavaScript Interview Questions :page_facing_up:](https://github.com/FADL285/javascript-interview-questions) & [37 Essential JavaScript Interview Questions :page_facing_up:](https://www.toptal.com/javascript/interview-questions)
+
+---
+
+# Level Two:
+
+<div align="center">
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td colspan="4"><b>:world_map: Content</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="#Web-Developer-Tools"><b>1- Web Developer Tools</b></a>
+        </td>
+        <td>
+          <a href="#Package-Managers"><b>2- Package Managers</b></a>
+        </td>
+        <td>
+          <a href="#CSS-Preprocessors"><b>3-CSS Preprocessors</b></a>
+        </td>
+        <td>
+          <a href="#"><b>4- ~_~</b></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## Web Developer Tools:
+
+**Learning Resources**:
+- [Mastering Chrome Developer Tools v2  🎬 🔠 🎬  💵💵](https://frontendmasters.com/courses/chrome-dev-tools-v2/)
+- [Chrome DevTools Docs :page_facing_up:](https://developer.chrome.com/docs/devtools/)
+- [Google Chrome Developer Tools Crash Course :clapper:](https://youtu.be/x4q86IjJFag)
+- [21+ Browser Dev Tools & Tips You Need To Know :clapper:](https://youtu.be/TcTSqhpm80Y)
+
+---
+
+## Package Managers:
+
+a package manager is a piece of software that lets you manage the dependencies (external code written by you or someone else) that your project needs to work correctly.
+
+**Learning Resources**:
+- [NPM :page_facing_up:](https://docs.npmjs.com/)
+    - [NPM Crash Course 🎬](https://youtu.be/jHDhaSSKmB0)
+    - [How To Use [ NPM ] NodeJs Package Manager 🎬](https://youtu.be/OCIRRyBbz_w) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+
+- [Yarn 📄](https://classic.yarnpkg.com/en/docs)
+    - [Yarn Package Manager Crash Course 🎬](https://youtu.be/g9_6KmiBISk)
+    - [Yarn crash course in Arabic 🎬](https://youtu.be/1Sjhc09Q7f8) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+
+## CSS Preprocessors:
+
+CSS preprocessors are scripting languages that extend the default capabilities of CSS. They enable us to use logic in our CSS code, such as variables, nesting, inheritance, mixins, functions, and mathematical operations. CSS preprocessors make it easy to automate repetitive tasks, reduce the number of errors and code bloat, create reusable code snippets, and ensure backward compatibility.
 
 ---
 
