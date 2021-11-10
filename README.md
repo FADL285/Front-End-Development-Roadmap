@@ -429,10 +429,24 @@ JavaScript is one of the most popular programming languages in the world. It is 
           <a href="#Package-Managers"><b>2- Package Managers</b></a>
         </td>
         <td>
-          <a href="#CSS-Preprocessors"><b>3-CSS Preprocessors</b></a>
+          <a href="#CSS-Architecture"><b>3-CSS Architecture</b></a>
         </td>
         <td>
-          <a href="#"><b>4- ~_~</b></a>
+          <a href="#CSS-Preprocessors"><b>4-CSS Preprocessors</b></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="#CSS-Frameworks"><b>5- CSS Frameworks (CSS UI Toolkits)</b></a>
+        </td>
+        <td>
+          <a href="#"><b>6- ~_~/b></a>
+        </td>
+        <td>
+          <a href="#"><b>7- ~_~</b></a>
+        </td>
+        <td>
+          <a href="#"><b>8- *^____^*</b></a>
         </td>
       </tr>
     </tbody>
@@ -462,9 +476,49 @@ a package manager is a piece of software that lets you manage the dependencies (
     - [Yarn Package Manager Crash Course 🎬](https://youtu.be/g9_6KmiBISk)
     - [Yarn crash course in Arabic 🎬](https://youtu.be/1Sjhc09Q7f8) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 
+---
+
 ## CSS Preprocessors:
 
 CSS preprocessors are scripting languages that extend the default capabilities of CSS. They enable us to use logic in our CSS code, such as variables, nesting, inheritance, mixins, functions, and mathematical operations. CSS preprocessors make it easy to automate repetitive tasks, reduce the number of errors and code bloat, create reusable code snippets, and ensure backward compatibility.
+
+**Sass** is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself. Sass consists of two syntaxes (sass/scss).
+
+**Learning Resources**:
+- [Sass Docs 📄](https://sass-lang.com/documentation)
+- [Sass Fundamentals 🎬 🔠 🎬  💵💵](https://frontendmasters.com/courses/sass/)
+- [Begin Working with Sass 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6bF7qObm2a1mLN_WHAWQo) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+- [Create Web Design With Sass 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9sluuyOWPifXvySgrGma8) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+- [SASS Tutorial (Build Your Own CSS Library) 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb)
+- [Sass Tutorial for Beginners - CSS With Superpowers 🎬](https://youtu.be/_a5j7KoflTs)
+
+---
+
+## CSS Architecture:
+
+[BEM](http://getbem.com) methodology gives your CSS code a solid structure that remains simple, easy to understand and easy to modify
+
+**Learning Resources**:
+-  [BEM :page_facing_up:](http://getbem.com/introduction/)
+-  [BEM Cheat Sheet :page_facing_up:](https://9elements.com/bem-cheat-sheet/)
+-  [نظم شيفرة الـ CSS عن طريق BEM 🎬](https://youtu.be/QtX-fPHUSpM) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+-  [You Probably Need BEM CSS in Your Life (Tutorial) 🎬](https://youtu.be/er1JEDuPbZQ)
+
+---
+
+## CSS Frameworks:
+
+**Utility Toolkits**
+- [Tailwind CSS 📄](https://tailwindcss.com/)
+    -  [Learn Tailwindcss with a project - Arabic 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLXgJ7cArk9uTx9GXay5yOcOhs-Ys_WygZ) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+    -  [Tailwind CSS Tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
+    -  [Laracasts Tailwind](https://laracasts.com/topics/tailwind)
+
+**UI + Utility Toolkits**
+- [Bootstrap 📄](https://getbootstrap.com/)
+    - [Bootstrap 5 Tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
+    - [Bootstrap 5 Crash Course | Website Build & Deploy 🎬](https://youtu.be/4sosXZsdy-s)
+    - [Bootstrap 5 Tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLnD96kXp-_pMJp3stPetkN76AJ2mmeah7) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 
 ---
 
