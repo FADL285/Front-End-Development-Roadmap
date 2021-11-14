@@ -522,9 +522,9 @@ A JavaScript module bundler compiles small pieces of code (aka modules) into som
 
 **Learning Resources**:
 - [Webpack 📄](https://webpack.js.org/)
+    - [Webpack 5 tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLmZPx_9ZF_sB4orswXdpThGMX9ii2uP7Z) 
     - [استخدام Webpack 🎬](https://youtu.be/M3c9R_xSF1o) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
     - [دورة webpack 5 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLfDx4cQoUNOY2whJdzM82xGP5D4EpjN46) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
-    - [Webpack 5 tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLmZPx_9ZF_sB4orswXdpThGMX9ii2uP7Z) 
 
 ---
 
