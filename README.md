@@ -55,7 +55,7 @@ This is a curated roadmap to becoming a professional Front-end Developer that an
           <a href="#level-two"><b>7-Level Two</b> ✨</a>
         </td>
         <td>
-          <a href="#"><b>8- (●'◡'●)</b></a>
+          <a href="#level-three"><b>8-Level Three</b> ✨</a>
         </td>
         <td>
           <a href="#"><b>9- *^____^*</b></a>
@@ -440,7 +440,7 @@ JavaScript is one of the most popular programming languages in the world. It is 
           <a href="#CSS-Frameworks"><b>5- CSS Frameworks (CSS UI Toolkits)</b></a>
         </td>
         <td>
-          <a href="#Module-Bundlers"><b>6-Module Bundlers </b></a>
+          <a href="#JavaScript-Libraries"><b>6-JavaScript Libraries</b></a>
         </td>
       </tr>
     </tbody>
@@ -515,6 +515,44 @@ CSS preprocessors are scripting languages that extend the default capabilities o
     - [Bootstrap 5 Tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLnD96kXp-_pMJp3stPetkN76AJ2mmeah7) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 
 ---
+
+## JavaScript Libraries:
+
+A JavaScript library is a library of pre-written JavaScript code that allows for easier development.
+
+> 💡 Search about what you want and you will find a library to do it. 
+
+**Articles about recommended js libraries:**:
+- [10 Awesome JavaScript Libraries You Should Try Out in 2021 📄](https://www.freecodecamp.org/news/10-javascript-libraries-you-should-try/)
+- [39 of the best JavaScript libraries and frameworks to try in 2021 📄](https://getflywheel.com/layout/best-javascript-libraries-frameworks-2020/)
+
+---
+
+# Level Three:
+
+<div align="center">
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td colspan="4"><b>:world_map: Content</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="#Module-Bundlers"><b>1-Module Bundlers</b></a>
+        </td>
+        <td>
+          <a href="#"><b>2- *^____^*</b></a>
+        </td>
+        <td>
+          <a href="#"><b>3- *^____^*</b></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 ## Module Bundlers:
 
