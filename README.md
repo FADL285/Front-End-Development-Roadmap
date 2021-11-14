@@ -431,22 +431,16 @@ JavaScript is one of the most popular programming languages in the world. It is 
         <td>
           <a href="#CSS-Architecture"><b>3-CSS Architecture</b></a>
         </td>
+      </tr>
+      <tr>
         <td>
           <a href="#CSS-Preprocessors"><b>4-CSS Preprocessors</b></a>
         </td>
-      </tr>
-      <tr>
         <td>
           <a href="#CSS-Frameworks"><b>5- CSS Frameworks (CSS UI Toolkits)</b></a>
         </td>
         <td>
-          <a href="#"><b>6- ~_~/b></a>
-        </td>
-        <td>
-          <a href="#"><b>7- ~_~</b></a>
-        </td>
-        <td>
-          <a href="#"><b>8- *^____^*</b></a>
+          <a href="#Module-Bundlers"><b>6-Module Bundlers </b></a>
         </td>
       </tr>
     </tbody>
@@ -519,6 +513,18 @@ CSS preprocessors are scripting languages that extend the default capabilities o
     - [Bootstrap 5 Tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
     - [Bootstrap 5 Crash Course | Website Build & Deploy 🎬](https://youtu.be/4sosXZsdy-s)
     - [Bootstrap 5 Tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLnD96kXp-_pMJp3stPetkN76AJ2mmeah7) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+
+---
+
+## Module Bundlers:
+
+A JavaScript module bundler compiles small pieces of code (aka modules) into something larger and more complex, such as a library or application.
+
+**Learning Resources**:
+- [Webpack 📄](https://webpack.js.org/)
+    - [استخدام Webpack 🎬](https://youtu.be/M3c9R_xSF1o) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+    - [دورة webpack 5 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLfDx4cQoUNOY2whJdzM82xGP5D4EpjN46) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+    - [Webpack 5 tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLmZPx_9ZF_sB4orswXdpThGMX9ii2uP7Z) 
 
 ---
 
