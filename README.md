@@ -409,6 +409,9 @@ JavaScript is one of the most popular programming languages in the world. It is 
 
 > After Learning JavaScript read this :arrow_right: [JavaScript Interview Questions :page_facing_up:](https://github.com/FADL285/javascript-interview-questions) & [37 Essential JavaScript Interview Questions :page_facing_up:](https://www.toptal.com/javascript/interview-questions)
 
+
+> Extra Resources: [Front-End Tools](http://frontendtools.com/)
+
 ---
 
 # Level Two:
