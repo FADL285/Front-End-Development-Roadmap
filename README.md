@@ -647,7 +647,7 @@ Sooooooooon..........
   <a target="_blank"href="https://twitter.com/FADL285">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:MohamedFadl2852@gmail.com">
+  <a href="mailto:Mohamed.Fadl2852@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
