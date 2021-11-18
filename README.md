@@ -241,7 +241,7 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
           <a href="#css"><b>2- CSS</b></a>
         </td>
         <td>
-          <a href="#html-css"><b>3- HTML & CSS - (resources & practice)</b></a>
+          <a href="#html--css---resources--practice"><b>3- HTML & CSS - (resources & practice)</b></a>
         </td>
         <td>
           <a href="#javascript"><b>4- JavaScript</b></a>
@@ -268,7 +268,6 @@ HTML stands for Hypertext Markup Language. It is the markup language for buildin
   - [HTML Assignments :page_facing_up:](https://elzero.org/category/assignments/html-assignments/)
 - [MDN - HTML :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 - [HTML tutorial - w3schools :page_facing_up:](https://www.w3schools.com/html/default.asp)
-- [Learn HTML Tutorial || HTML دورة كاملة لتعلم لغة :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLtFbQRDJ11kHSmfYMvSprAHaPeNlpF4qK) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 - [HTML Full Course - Freecodecamp :clapper:](https://youtu.be/pQN-pnXPaVg)
 - [HTML Crash Course For Absolute Beginners - Traversy Media :clapper:](https://www.youtube.com/watch?v=UB1O30fR-EE)
 
@@ -285,7 +284,6 @@ CSS stands for Cascading Style Sheets. It is the technology to learn after HTML.
     - [CSS Study Plan :page_facing_up:](https://elzero.org/study/css-2021-study-plan/)
     - [CSS Assignments :page_facing_up:](https://elzero.org/category/assignments/css-assignments/)
 - [MDN - CSS :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-- [Learn CSS Tutorial || CSS دورة كاملة لتعلم لغة :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLtFbQRDJ11kFENgYWivcxJwFKZp815zXX) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 - [CSS tutorials - w3schools :page_facing_up:](https://www.w3schools.com/css/default.asp)
 - [CSS Tutorial - Zero to Hero - Freecodecamp :clapper:](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [HTML5 & CSS Development - Udemy :clapper:](https://www.youtube.com/watch?v=5bMdjkfvONE)
