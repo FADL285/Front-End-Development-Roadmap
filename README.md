@@ -462,11 +462,11 @@ JavaScript is one of the most popular programming languages in the world. It is 
 a package manager is a piece of software that lets you manage the dependencies (external code written by you or someone else) that your project needs to work correctly.
 
 **Learning Resources**:
-- [NPM :page_facing_up:](https://docs.npmjs.com/)
+- [NPM 📖](https://docs.npmjs.com/)
     - [NPM Crash Course 🎬](https://youtu.be/jHDhaSSKmB0)
     - [How To Use [ NPM ] NodeJs Package Manager 🎬](https://youtu.be/OCIRRyBbz_w) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 
-- [Yarn 📄](https://classic.yarnpkg.com/en/docs)
+- [Yarn 📖](https://classic.yarnpkg.com/en/docs)
     - [Yarn Package Manager Crash Course 🎬](https://youtu.be/g9_6KmiBISk)
     - [Yarn crash course in Arabic 🎬](https://youtu.be/1Sjhc09Q7f8) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 
@@ -479,7 +479,7 @@ CSS preprocessors are scripting languages that extend the default capabilities o
 **Sass** is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself. Sass consists of two syntaxes (sass/scss).
 
 **Learning Resources**:
-- [Sass Docs 📄](https://sass-lang.com/documentation)
+- [Sass Docs 📖](https://sass-lang.com/documentation)
 - [Sass Fundamentals 🎬 🔠 🎬  💵💵](https://frontendmasters.com/courses/sass/)
 - [Begin Working with Sass 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6bF7qObm2a1mLN_WHAWQo) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 - [Create Web Design With Sass 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9sluuyOWPifXvySgrGma8) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
@@ -503,13 +503,13 @@ CSS preprocessors are scripting languages that extend the default capabilities o
 ## CSS Frameworks:
 
 **Utility Toolkits**
-- [Tailwind CSS 📄](https://tailwindcss.com/)
+- [Tailwind CSS 📖](https://tailwindcss.com/)
     -  [Learn Tailwindcss with a project - Arabic 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLXgJ7cArk9uTx9GXay5yOcOhs-Ys_WygZ) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
     -  [Tailwind CSS Tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
     -  [Laracasts Tailwind](https://laracasts.com/topics/tailwind)
 
 **UI + Utility Toolkits**
-- [Bootstrap 📄](https://getbootstrap.com/)
+- [Bootstrap 📖](https://getbootstrap.com/)
     - [Bootstrap 5 Tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
     - [Bootstrap 5 Crash Course | Website Build & Deploy 🎬](https://youtu.be/4sosXZsdy-s)
     - [Bootstrap 5 Tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLnD96kXp-_pMJp3stPetkN76AJ2mmeah7) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
@@ -549,7 +549,7 @@ A JavaScript library is a library of pre-written JavaScript code that allows for
           <a href="#Testing"><b>3-Testing</b></a>
         </td>
         <td>
-          <a href="#Progressive-Web-Apps"><b>3-Progressive Web Apps (PWA)</b></a>
+          <a href="#Progressive-Web-Apps"><b>4-Progressive Web Apps (PWA)</b></a>
         </td>
       </tr>
     </tbody>
@@ -562,10 +562,40 @@ A JavaScript library is a library of pre-written JavaScript code that allows for
 A JavaScript module bundler compiles small pieces of code (aka modules) into something larger and more complex, such as a library or application.
 
 **Learning Resources**:
-- [Webpack 📄](https://webpack.js.org/)
+- [Webpack 📖](https://webpack.js.org/)
     - [Webpack 5 tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLmZPx_9ZF_sB4orswXdpThGMX9ii2uP7Z) 
     - [استخدام Webpack 🎬](https://youtu.be/M3c9R_xSF1o) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
     - [دورة webpack 5 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLfDx4cQoUNOY2whJdzM82xGP5D4EpjN46) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+
+---
+
+## JavaScript Frameworks:
+
+JavaScript frameworks are essential for modern front-end web development, providing developers with tried and tested tools for building scalable, interactive web applications. Many modern companies use frameworks as a standard part of their tooling, so many front-end development jobs require framework experience.
+
+JavaScript frameworks are tools designed to speed up development and organize code used to build modern web apps. They exist to solve problems more directly rather than providing an open set of tools like most libraries do.
+
+
+**Top 3 Javascript Frameworks:**
+
+- [Vue](https://vuejs.org/)
+- [React](https://reactjs.org/)
+- [Angular](https://angular.io/)
+
+
+> 💡 Before you start learning a framework I recommend watching this [tutorial](https://www.youtube.com/playlist?list=PLtxOBbrOOPH6Os1EJifSE59Bd5WbL15pn). <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+
+
+**Learning Resources For VUE**:
+
+- [Vue Docs 📖](https://vuejs.org/)
+- [Vue Mastery](https://www.vuemastery.com/)
+- [Vue School](https://vueschool.io/)
+- [Vue - The Complete Guide (w/ Router, Vuex, Composition API) 🎬 🔠 🎬  💵💵](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
+
+- [Vuex](https://vuex.vuejs.org/)```JavaScript State Managment```
+
+
 
 ---
 
