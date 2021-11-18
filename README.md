@@ -571,12 +571,11 @@ A JavaScript module bundler compiles small pieces of code (aka modules) into som
 
 ## JavaScript Frameworks:
 
-> In this section, you will learn about JavaScript Frameworks, JavaScript State Managment and Server side rendering.
+> In this section, you will learn about **JavaScript Frameworks**, **JavaScript State Managment** and **Server side rendering**.
 
 **JavaScript frameworks:**
 
-- are essential for modern front-end web development, providing developers with tried and tested tools for building scalable, interactive web applications. Many modern companies use frameworks as a standard part of their tooling, so many front-end development jobs require framework experience.
-- are tools designed to speed up development and organize code used to build modern web apps. They exist to solve problems more directly rather than providing an open set of tools like most libraries do.
+JavaScript frameworks are tools designed to speed up development and organize code used to build modern web apps. They exist to solve problems more directly rather than providing an open set of tools like most libraries do.  Many modern companies use frameworks as a standard part of their tooling, so many front-end development jobs require framework experience.
 
 **JavaScript State Managment:**
 
@@ -586,6 +585,7 @@ State Management helps in updating the UI in related places when there is a chan
 
 Server-side rendering (SSR), is the ability of an application to contribute by displaying the web-page on the server instead of rendering it in the browser. Server-side sends a fully rendered page to the client; the client's JavaScript bundle takes over which then allows the Vue.js app to hydrate.
 
+---
 
 **Top 3 Javascript Frameworks:**
 
@@ -603,9 +603,15 @@ Server-side rendering (SSR), is the ability of an application to contribute by d
 - [Vue Mastery](https://www.vuemastery.com/)
 - [Vue School](https://vueschool.io/)
 - [Vue - The Complete Guide (w/ Router, Vuex, Composition API) 🎬 🔠 🎬  💵💵](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
-- [Vuex](https://vuex.vuejs.org/)```JavaScript State Managment```
+- [Vuex](https://vuex.vuejs.org/) -> ```state management pattern + library for Vue.js applications```
 
+**Learning Resources For NuxtJS**:
 
+NuxtJS is a Server-Side Vue Framework, with some architectural opinions that can be useful to creating maintainable applications, even if you don’t use any of the Server Side Rendering features it provides.
+
+- [NuxtJS 📖](https://nuxtjs.org/)
+- [Nuxt.js - Vue.js on Steroids 🎬 🔠 🎬  💵💵](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)
+- [Nuxt.js Course](https://www.youtube.com/playlist?list=PLLXntwspGdhCBdax1ZJTEX6Gg5vCwOSUL) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 
 ---
 
