@@ -543,10 +543,11 @@ A JavaScript library is a library of pre-written JavaScript code that allows for
           <a href="#Module-Bundlers"><b>1-Module Bundlers</b></a>
         </td>
         <td>
+          <a href="#Testing"><b>2-Testing</b></a>
           <a href="#JavaScript-Frameworks"><b>2-JavaScript Frameworks</b></a>
         </td>
         <td>
-          <a href="#Testing"><b>3-Testing</b></a>
+          <a href="#JavaScript-Frameworks"><b>3-JavaScript Frameworks</b></a>
         </td>
         <td>
           <a href="#Progressive-Web-Apps"><b>4-Progressive Web Apps (PWA)</b></a>
@@ -566,6 +567,16 @@ A JavaScript module bundler compiles small pieces of code (aka modules) into som
     - [Webpack 5 tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLmZPx_9ZF_sB4orswXdpThGMX9ii2uP7Z) 
     - [استخدام Webpack 🎬](https://youtu.be/M3c9R_xSF1o) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
     - [دورة webpack 5 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLfDx4cQoUNOY2whJdzM82xGP5D4EpjN46) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+
+---
+
+## Testing:
+
+Learn the difference between Unit, Integratation, and Functional tests and learn how to write them.
+
+**Learning Resources For unit testing with Jest**:
+- [Jest Docs 📖](https://jestjs.io/)
+- [JavaScript Unit Testing With Jest](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O)
 
 ---
 
@@ -614,13 +625,6 @@ NuxtJS is a Server-Side Vue Framework, with some architectural opinions that can
 - [Nuxt.js Course](https://www.youtube.com/playlist?list=PLLXntwspGdhCBdax1ZJTEX6Gg5vCwOSUL) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 
 ---
-
-## Testing:
-
-Sooooooooon..........
-
----
-
 
 ## Progressive Web Apps:
 
