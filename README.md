@@ -629,13 +629,19 @@ NuxtJS is a Server-Side Vue Framework, with some architectural opinions that can
 
 ## Progressive Web Apps:
 
-Sooooooooon..........
+- What is PWA? [Raad 📄](https://web.dev/what-are-pwas/)
+
+**Learning Resources**
+
+- [Progressive Web Apps 📄](https://web.dev/progressive-web-apps/)
+- [PWA Tutorial for Beginners 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
+- [Progressive Web Apps (PWA) - The Complete Guide 🎬 🔠 🎬  💵💵](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/)
 
 ---
 
 # What Next:
 
-Sooooooooon..........
+Always Keep Learning, Practice more, and don't stop.
 
 ---
 
