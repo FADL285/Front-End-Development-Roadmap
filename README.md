@@ -576,7 +576,8 @@ Learn the difference between Unit, Integratation, and Functional tests and learn
 
 **Learning Resources For unit testing with Jest**:
 - [Jest Docs 📖](https://jestjs.io/)
-- [JavaScript Unit Testing With Jest](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O)
+- [JavaScript Unit Testing With Jest 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+- [Jest Cheatsheet - Devhints 📄](https://devhints.io/jest)
 
 ---
 
@@ -614,7 +615,7 @@ Server-side rendering (SSR), is the ability of an application to contribute by d
 - [Vue Mastery](https://www.vuemastery.com/)
 - [Vue School](https://vueschool.io/)
 - [Vue - The Complete Guide (w/ Router, Vuex, Composition API) 🎬 🔠 🎬  💵💵](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
-- [Vuex](https://vuex.vuejs.org/) -> ```state management pattern + library for Vue.js applications```
+- [Vuex Docs 📖](https://vuex.vuejs.org/) -> ```state management pattern + library for Vue.js applications```
 
 **Learning Resources For NuxtJS**:
 
@@ -622,7 +623,7 @@ NuxtJS is a Server-Side Vue Framework, with some architectural opinions that can
 
 - [NuxtJS 📖](https://nuxtjs.org/)
 - [Nuxt.js - Vue.js on Steroids 🎬 🔠 🎬  💵💵](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)
-- [Nuxt.js Course](https://www.youtube.com/playlist?list=PLLXntwspGdhCBdax1ZJTEX6Gg5vCwOSUL) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+- [Nuxt.js Course 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLLXntwspGdhCBdax1ZJTEX6Gg5vCwOSUL) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 
 ---
 
