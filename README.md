@@ -622,6 +622,7 @@ Server-side rendering (SSR), is the ability of an application to contribute by d
 - [Vue School](https://vueschool.io/)
 - [Vue - The Complete Guide (w/ Router, Vuex, Composition API) 🎬 🔠 🎬  💵💵](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
 - [Vuex Docs 📖](https://vuex.vuejs.org/) -> ```state management pattern + library for Vue.js applications```
+- [Vue tutorials - arabic](https://www.youtube.com/c/GoArabGo/playlists?view=50&sort=dd&shelf_id=6) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 
 **Learning Resources For NuxtJS**:
 
