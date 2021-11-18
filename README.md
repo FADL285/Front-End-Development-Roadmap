@@ -369,9 +369,10 @@ JavaScript is one of the most popular programming languages in the world. It is 
 
 **Here are some resources to learn JavaScript:**
 
+- [MDN - JavaScript :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/)
 - [Learn CSS - Elzero Web School :page_facing_up:](https://elzero.org/learn-javascript/) :star2:
   - [Learn JavaScript In Arabic 2021 :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
-- [MDN - JavaScript :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/)
+- [JavaScript Samurai كورس جافاسكربت من الصفر حتى الاحتراف :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgU2x6Kk6w0qx5piLgMODsm) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 - [JavaScript.INFO :page_facing_up:](https://javascript.info/intro)
 - [Eloquent JavaScript 📕](https://eloquentjavascript.net/)
 - [Learn JavaScript - Freecodecamp :clapper:](https://youtu.be/PkZNo7MFNFg)
