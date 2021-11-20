@@ -551,7 +551,6 @@ A JavaScript library is a library of pre-written JavaScript code that allows for
         </td>
         <td>
           <a href="#Testing"><b>2-Testing</b></a>
-          <a href="#JavaScript-Frameworks"><b>2-JavaScript Frameworks</b></a>
         </td>
         <td>
           <a href="#JavaScript-Frameworks"><b>3-JavaScript Frameworks</b></a>
