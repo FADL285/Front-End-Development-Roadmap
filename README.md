@@ -129,7 +129,6 @@ First, you should read about [The Front-end Developer Profession &nbsp; :page_fa
 - [World Wide Web (WWW) Basic Mechanics &nbsp; :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/www-basic-mechanics/)
 - [HTTP & Web Sockets &nbsp; :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/http/)
 - [How the Internet Works in 5 Minutes &nbsp; :clapper: ](https://youtu.be/7_LPdttKXPc)
-- [What is the Internet? - code.org &nbsp; :clapper: ](https://youtu.be/Dxcc6ycZ73M)
 - [How The Web Works - The Big Picture 🎬](https://youtu.be/hJHvdBlSxug)
 - [What is a web browser? &nbsp; :page_facing_up:](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)
 - [How Browsers Work &nbsp; :page_facing_up:](https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/)
