@@ -174,10 +174,12 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
 - [Git book - Git &nbsp; :page_facing_up: ](https://git-scm.com/book/en/v2)
 - [Github Guides &nbsp; :page_facing_up: ](https://guides.github.com/activities/hello-world/)
 - [Version Control with Git - Udacity &nbsp; :clapper: :capital_abcd: :clapper: ](https://www.udacity.com/course/version-control-with-git--ud123)
-- [Introduction to Git and GitHub &nbsp; :clapper: :capital_abcd: :clapper: ](https://www.coursera.org/learn/introduction-git-github)
+- [Introduction to Git and GitHub from Google &nbsp; :clapper: :capital_abcd: :clapper: ](https://www.coursera.org/learn/introduction-git-github)
 - [An introduction to Git - Freecodecamp &nbsp; :page_facing_up: ](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
-- [Git Tutorial for Beginners: Learn Git in 1 Hour - Code with Mosh &nbsp; :clapper: ](https://youtu.be/8JJ101D3knE)
+- [Git & GitHub Arabic Tutorial &nbsp; :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLqPejUavRNTXejD5npdmFbe6NU6dTJLhW) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YT arabic playlist" width="80" />
 - [Learn Git and Github &nbsp; :clapper: :capital_abcd: :clapper: ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YT arabic playlist" width="80" />
+- [learn Git in Arabic &nbsp; :clapper: :capital_abcd: :clapper:](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YT arabic playlist" width="80" />
+- [Git Tutorial for Beginners: Learn Git in 1 Hour - Code with Mosh &nbsp; :clapper: ](https://youtu.be/8JJ101D3knE)
 - [Git and GitHub for Beginners - Crash Course - Freecodecamp &nbsp; :clapper: ](https://youtu.be/RGOj5yH7evk)
 
 ---
