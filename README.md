@@ -110,14 +110,11 @@ First, you should read about [The Front-end Developer Profession &nbsp; :page_fa
 
 - The World Wide Web (aka WWW)
 - The Internet
-  - Internet Fundamentals
-  - How the Internet Works
+  - Internet Fundamentals &  How it Works
 - Hypertext Transfer Protocol (aka HTTP)
 - Uniform Resource Locators (aka URL)
-- Browsers and how they work
-- DNS and how it works
-- What is Domain name
-- Hosting
+- Browsers and How The Web Works
+- DNS, Domain Name and Hosting
 
 <br />
 
