@@ -390,6 +390,8 @@ JavaScript is one of the most popular programming languages in the world. It is 
 - [Regular Expressions Demystified 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PL55RiY5tL51ryV3MhCbH8bLl7O_RZGUUE)
 - [Regular Expression tutorial - Arabic 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4aVMg7hgQGHyQBZnHgFjJk) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" /> `The implementation is not in JavaScript but explains the concept of Regex in a nice way`
 - [Regular Expressions (RegEx) Tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)
+- [Regular expressions - MDN 📄](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+
 <br />
 
 **Here are some Youtube Videos for practice on JavaScript.:**
