@@ -618,7 +618,7 @@ Server-side rendering (SSR), is the ability of an application to contribute by d
 - [Angular](https://angular.io/)
 
 
-> 💡 Before you start learning a framework I recommend watching this [tutorial](https://www.youtube.com/playlist?list=PLtxOBbrOOPH6Os1EJifSE59Bd5WbL15pn). <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+> 💡 Before you start learning a framework I recommend watching this [tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLtxOBbrOOPH6Os1EJifSE59Bd5WbL15pn). <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" /> and this [tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLVvjrrRCBy2IDt1Hm8NAiRl_6_io8aS6b).
 
 
 **Learning Resources For VUE**:
