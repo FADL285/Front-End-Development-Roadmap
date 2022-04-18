@@ -285,6 +285,8 @@ CSS stands for Cascading Style Sheets. It is the technology to learn after HTML.
     - [CSS Study Plan :page_facing_up:](https://elzero.org/study/css-2021-study-plan/)
     - [CSS Assignments :page_facing_up:](https://elzero.org/category/assignments/css-assignments/)
 - [MDN - CSS :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [Web.dev - Learn CSS 📄](https://web.dev/learn/css/) ```recommended```
+- [Web.dev - Learn Responsive Design](https://web.dev/learn/design/) ```recommended```
 - [CSS tutorials - w3schools :page_facing_up:](https://www.w3schools.com/css/default.asp)
 - [CSS Tutorial - Zero to Hero - Freecodecamp :clapper:](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [HTML5 & CSS Development - Udemy :clapper:](https://www.youtube.com/watch?v=5bMdjkfvONE)
