@@ -2,7 +2,7 @@
   <img src="img/front-end-roadmap.gif" alt="Front-End Development" />
 </p>
 
-> Roadmap to becoming a Front-End Developer in 2021.
+> Roadmap to becoming a Front-End Developer in 2022.
 
 ---
 
@@ -359,11 +359,12 @@ JavaScript is one of the most popular programming languages in the world. It is 
 **On this level, we will learn the basics of JavaScript**
 - [JavaScript Fundamentals](https://frontendmasters.com/guides/learning-roadmap/javascript-fundamentals/)
 - [DOM Manipulation & BOM](https://frontendmasters.com/guides/learning-roadmap/dom-bom-cssom/)
-- Fetch API & JSON
+- AJAX, Fetch API and JSON
 - [ES6+ & Modular JS](https://frontendmasters.com/guides/learning-roadmap/javascript-modules-scripts/)
 - [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 - [Object-oriented Programming (OOP)](https://frontendmasters.com/guides/learning-roadmap/js-oop/)
 - [Regular Expressions (Regex)](https://frontendmasters.com/guides/learning-roadmap/javascript-regular-expressions/) `general skill`
+- JavaScript Algorithms and Data Structures | Design Patterns
 
 <br />
 
@@ -402,6 +403,7 @@ JavaScript is one of the most popular programming languages in the world. It is 
 **Here are some Youtube Videos for practice on JavaScript.:**
 
 - [JavaScript Practice - Elzero Web School :page_facing_up:](https://elzero.org/javascript-practice/)
+- [HTML | CSS | JavaScript | Projects - Shadow Coding 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLS-MrzRLZtmflgWiToSs6jNwYaFK7FnWM) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 - [Build 15 JavaScript Projects - Vanilla JavaScript Course - FreeCodeCamp :clapper:](https://youtu.be/3PHXvlpOkf4)
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
     - [Build 5 Projects With HTML, CSS & JavaScript :clapper:](https://youtu.be/JkeyKeK3V24)
@@ -418,6 +420,19 @@ JavaScript is one of the most popular programming languages in the world. It is 
 - [Modern JavaScript (Complete guide, from Novice to Ninja) :clapper: :capital_abcd: :clapper:](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/)
 - [Modern JavaScript From The Beginning  :clapper: :capital_abcd: :clapper:](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 - [50 Projects In 50 Days - HTML, CSS & JavaScript  :clapper: :capital_abcd: :clapper:](https://www.udemy.com/course/50-projects-50-days/)
+
+<br />
+
+**Here are some resources to learn JavaScript Algorithms, Data Structures and Design Patterns:**
+
+- [JavaScript Algorithms and Data Structures - freeCodeCamp 📄](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [JavaScript Algorithms and Data Structures Masterclass 🎬 🔠 🎬  💵💵](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+- [Master the Coding Interview: Data Structures + Algorithms 🎬 🔠 🎬  💵💵](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+- [Data Structure : JavaScript (leetcode problem solving) - Shadow Coding 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLS-MrzRLZtmdIHJ-Osvv_sJO1Msc4VM_7) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+- [JavaScript Algorithms and Data Structures 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP)
+- [Learning JavaScript Design Patterns 📄](https://www.patterns.dev/posts/classic-design-patterns/)
+- [JavaScript Design Patterns – Explained with Examples 📄](https://www.freecodecamp.org/news/javascript-design-patterns-explained/)
+- [Design Patterns | javascript 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLS-MrzRLZtmduTfp_bReagQKg7I-GVr-5) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 
 <br />
 
