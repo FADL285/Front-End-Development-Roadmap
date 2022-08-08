@@ -287,11 +287,8 @@ CSS stands for Cascading Style Sheets. It is the technology to learn after HTML.
 - [MDN - CSS :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [Web.dev - Learn CSS 📄](https://web.dev/learn/css/) ```recommended```
 - [Web.dev - Learn Responsive Design](https://web.dev/learn/design/) ```recommended```
-- [CSS tutorials - w3schools :page_facing_up:](https://www.w3schools.com/css/default.asp)
-- [CSS Tutorial - Zero to Hero - Freecodecamp :clapper:](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
-- [HTML5 & CSS Development - Udemy :clapper:](https://www.youtube.com/watch?v=5bMdjkfvONE)
-- [Flexbox CSS in 20 minutes - Traversy media :clapper:](https://www.youtube.com/watch?v=JJSoEo8JSnc)
-- [CSS Variables Tutorial (CSS Custom Properties) - Traversy media :clapper:](https://youtu.be/sQUB039MG0I)
+
+> 💡 Take a look at this repository - [Awesome-CSS-Learning](https://github.com/FADL285/Awesome-CSS-Learning) - A tiny list limited to the best CSS Learning Resources.
 
 <br />
 
@@ -303,6 +300,8 @@ CSS stands for Cascading Style Sheets. It is the technology to learn after HTML.
 - Animations :arrow_right: [CSS Transitions, Transforms & Animation :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-transitions-transforms-animations/)
 - Web Fonts, CSS Icons, Google Fonts :arrow_right: [CSS Fonts & Icons :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-fonts-and-icons/)
 - CSS Variables & CSS Practices :arrow_right: [CSS Practices :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-practices/)
+
+> Take a look at this repository
 
 ---
 
