@@ -268,9 +268,9 @@ HTML stands for Hypertext Markup Language. It is the markup language for buildin
   - [HTML Study Plan :page_facing_up:](https://elzero.org/study/html-2021-study-plan/)
   - [HTML Assignments :page_facing_up:](https://elzero.org/category/assignments/html-assignments/)
 - [MDN - HTML :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-- [HTML tutorial - w3schools :page_facing_up:](https://www.w3schools.com/html/default.asp)
 - [HTML Full Course - Freecodecamp :clapper:](https://youtu.be/pQN-pnXPaVg)
 - [HTML Crash Course For Absolute Beginners - Traversy Media :clapper:](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [Learn Forms - web.dev](https://web.dev/learn/forms/) `recommended`
 
 ---
 
