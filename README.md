@@ -596,6 +596,9 @@ A JavaScript library is a library of pre-written JavaScript code that allows for
 A JavaScript module bundler compiles small pieces of code (aka modules) into something larger and more complex, such as a library or application.
 
 **Learning Resources**:
+
+- [Vite 📖](https://vitejs.dev/)
+    - [Learn Vite with Evan You 🎬](https://youtu.be/DkGV5F4XnfQ)
 - [Webpack 📖](https://webpack.js.org/)
     - [Webpack 5 tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLmZPx_9ZF_sB4orswXdpThGMX9ii2uP7Z) 
     - [استخدام Webpack 🎬](https://youtu.be/M3c9R_xSF1o) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
@@ -648,8 +651,11 @@ Server-side rendering (SSR), is the ability of an application to contribute by d
 - [Vue Mastery](https://www.vuemastery.com/)
 - [Vue School](https://vueschool.io/)
 - [Vue - The Complete Guide (w/ Router, Vuex, Composition API) 🎬 🔠 🎬  💵💵](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
-- [Vuex Docs 📖](https://vuex.vuejs.org/) -> ```state management pattern + library for Vue.js applications```
-- [Vue tutorials - arabic](https://www.youtube.com/c/GoArabGo/playlists?view=50&sort=dd&shelf_id=6) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+- [Vuex Docs 📖](https://vuex.vuejs.org/) -> `state management pattern + library for Vue.js applications`
+- [Pinia Docs 📖](https://pinia.vuejs.org/) -> `state management`
+- [Vue JS 3 Tutorial for Beginners 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f)
+- [Vue.js 3 Tutorial - The Net Ninja 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
+- [Vue `V2` tutorials - arabic](https://www.youtube.com/c/GoArabGo/playlists?view=50&sort=dd&shelf_id=6) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 
 **Learning Resources For NuxtJS**:
 
@@ -668,6 +674,7 @@ NuxtJS is a Server-Side Vue Framework, with some architectural opinions that can
 **Learning Resources**
 
 - [Progressive Web Apps 📄](https://web.dev/progressive-web-apps/)
+- [Learn PWA - web.dev 📄](https://web.dev/learn/pwa/)
 - [PWA Tutorial for Beginners 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
 - [Progressive Web Apps (PWA) - The Complete Guide 🎬 🔠 🎬  💵💵](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/)
 
