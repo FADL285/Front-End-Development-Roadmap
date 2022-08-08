@@ -388,6 +388,10 @@ JavaScript is one of the most popular programming languages in the world. It is 
 - [JavaScript Tutorial for Beginners - Programming with Mosh :clapper:](https://youtu.be/W6NZfCO5SIk)
 - [30 Days of JavaScript repo :page_facing_up:](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
+> 💡 Take a look at this repository - [Awesome-JavaScript-Learning](https://github.com/FADL285/Awesome-JavaScript-Learning) - A tiny list limited to the best JavaScript Learning Resources.
+
+<br />
+
 **Here are some resources to learn Regular Expressions (Regex):**
 
 - [Regular Expressions Demystified 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PL55RiY5tL51ryV3MhCbH8bLl7O_RZGUUE)
