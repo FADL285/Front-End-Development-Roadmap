@@ -1,8 +1,7 @@
-<p align="center">
+<div align="center">
   <img src="img/front-end-roadmap.gif" alt="Front-End Development" />
-</p>
-
-> Roadmap to becoming a Front-End Developer in 2022.
+  <p><strong>Roadmap to becoming a Front-End Developer in 2022.</strong></p>
+</div>
 
 ---
 
