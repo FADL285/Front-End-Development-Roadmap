@@ -270,7 +270,7 @@ HTML stands for Hypertext Markup Language. It is the markup language for buildin
 - [MDN - HTML :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 - [HTML Full Course - Freecodecamp :clapper:](https://youtu.be/pQN-pnXPaVg)
 - [HTML Crash Course For Absolute Beginners - Traversy Media :clapper:](https://www.youtube.com/watch?v=UB1O30fR-EE)
-- [Learn Forms - web.dev](https://web.dev/learn/forms/) `recommended`
+- [Learn Forms - web.dev 📄](https://web.dev/learn/forms/) `recommended`
 
 ---
 
@@ -286,7 +286,7 @@ CSS stands for Cascading Style Sheets. It is the technology to learn after HTML.
     - [CSS Assignments :page_facing_up:](https://elzero.org/category/assignments/css-assignments/)
 - [MDN - CSS :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [Web.dev - Learn CSS 📄](https://web.dev/learn/css/) ```recommended```
-- [Web.dev - Learn Responsive Design](https://web.dev/learn/design/) ```recommended```
+- [Web.dev - Learn Responsive Design 📄](https://web.dev/learn/design/) ```recommended```
 
 > 💡 Take a look at this repository - [Awesome-CSS-Learning](https://github.com/FADL285/Awesome-CSS-Learning) - A tiny list limited to the best CSS Learning Resources.
 
@@ -300,8 +300,6 @@ CSS stands for Cascading Style Sheets. It is the technology to learn after HTML.
 - Animations :arrow_right: [CSS Transitions, Transforms & Animation :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-transitions-transforms-animations/)
 - Web Fonts, CSS Icons, Google Fonts :arrow_right: [CSS Fonts & Icons :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-fonts-and-icons/)
 - CSS Variables & CSS Practices :arrow_right: [CSS Practices :page_facing_up:](https://frontendmasters.com/guides/learning-roadmap/css-practices/)
-
-> Take a look at this repository
 
 ---
 
@@ -500,7 +498,7 @@ CSS preprocessors are scripting languages that extend the default capabilities o
 **Learning Resources**:
 - [Sass Docs 📖](https://sass-lang.com/documentation)
 - [Sass Fundamentals 🎬 🔠 🎬  💵💵](https://frontendmasters.com/courses/sass/)
-- [Learn SASS In Arabic 2021 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6bF7qObm2a1mLN_WHAWQo](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+- [Learn SASS In Arabic 2021 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 - [Create Web Design With Sass 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9sluuyOWPifXvySgrGma8) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
 - [SASS Tutorial (Build Your Own CSS Library) 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb)
 - [Sass Tutorial for Beginners - CSS With Superpowers 🎬](https://youtu.be/_a5j7KoflTs)
@@ -523,14 +521,15 @@ CSS preprocessors are scripting languages that extend the default capabilities o
 
 **Utility Toolkits**
 - [Tailwind CSS 📖](https://tailwindcss.com/)
-    -  [Learn Tailwindcss with a project - Arabic 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLXgJ7cArk9uTx9GXay5yOcOhs-Ys_WygZ) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+    - [Tailwind CSS Course🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLnD96kXp-_pMR9cBUmvsz_kIIt9bv2UIP) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+    -  [Learn Tailwindcss with a project - Arabic 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLXgJ7cArk9uTx9GXay5yOcOhs-Ys_WygZ) `TailwindCSS V2` <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
     -  [Tailwind CSS Tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
     -  [Laracasts Tailwind](https://laracasts.com/topics/tailwind)
 
 **UI + Utility Toolkits**
 - [Bootstrap 📖](https://getbootstrap.com/)
     - [Bootstrap 5 Tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLnD96kXp-_pMJp3stPetkN76AJ2mmeah7) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
-    - [Bootstrap 5 Design 01 Bondi](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
+    - [Bootstrap 5 Design 01 Bondi 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Arabic playlist" width="80" />
     - [Bootstrap 5 Tutorial 🎬 🔠 🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
     - [Bootstrap 5 Crash Course | Website Build & Deploy 🎬](https://youtu.be/4sosXZsdy-s)    
 
