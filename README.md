@@ -267,9 +267,10 @@ HTML stands for Hypertext Markup Language. It is the markup language for buildin
   - [HTML Study Plan :page_facing_up:](https://elzero.org/study/html-2021-study-plan/)
   - [HTML Assignments :page_facing_up:](https://elzero.org/category/assignments/html-assignments/)
 - [MDN - HTML :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [Learn HTML - web.dev 📄](https://web.dev/learn/html/) `recommended`
+- [Learn Forms - web.dev 📄](https://web.dev/learn/forms/) `recommended`
 - [HTML Full Course - Freecodecamp :clapper:](https://youtu.be/pQN-pnXPaVg)
 - [HTML Crash Course For Absolute Beginners - Traversy Media :clapper:](https://www.youtube.com/watch?v=UB1O30fR-EE)
-- [Learn Forms - web.dev 📄](https://web.dev/learn/forms/) `recommended`
 
 ---
 
@@ -436,9 +437,6 @@ JavaScript is one of the most popular programming languages in the world. It is 
 <br />
 
 > After Learning JavaScript read this :arrow_right: [JavaScript Interview Questions :page_facing_up:](https://github.com/FADL285/javascript-interview-questions) & [37 Essential JavaScript Interview Questions :page_facing_up:](https://www.toptal.com/javascript/interview-questions)
-
-
-> Extra Resources: [Front-End Tools](http://frontendtools.com/)
 
 ---
 
