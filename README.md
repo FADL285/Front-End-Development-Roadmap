@@ -229,7 +229,7 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
   <table>
     <thead align="center">
       <tr border: none;>
-        <td colspan="4"><b>:world_map: Content</b></td>
+        <td colspan="3"><b>:world_map: Content</b></td>
       </tr>
     </thead>
     <tbody>
@@ -243,8 +243,13 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
         <td>
           <a href="#html--css---resources--practice"><b>3- HTML & CSS - (resources & practice)</b></a>
         </td>
-        <td>
+      </tr>
+      <tr>
+        <td colspan="2">
           <a href="#javascript"><b>4- JavaScript</b></a>
+        </td>
+        <td>
+          <a href="#accessibility"><b>5- Accessibility</b></a>
         </td>
       </tr>
     </tbody>
@@ -437,6 +442,19 @@ JavaScript is one of the most popular programming languages in the world. It is 
 <br />
 
 > After Learning JavaScript read this :arrow_right: [JavaScript Interview Questions :page_facing_up:](https://github.com/FADL285/javascript-interview-questions) & [37 Essential JavaScript Interview Questions :page_facing_up:](https://www.toptal.com/javascript/interview-questions)
+
+---
+
+## Accessibility:
+
+Digital accessibility, commonly abbreviated a11y, is about designing and building websites and web apps that disabled people can interact with in a meaningful and equivalent way.
+
+**Here are some resources to learn HTML:**
+
+- [Learn Accessibility - Web.dev :page_facing_up:](https://web.dev/learn/accessibility/) :star2:
+- [Learn Accessibility - MDN :page_facing_up:](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+- [Web Accessibility - Udacity :clapper: :capital_abcd: :clapper:](https://www.udacity.com/course/web-accessibility--ud891)
+- [Web Accessibility: Getting Started - pluralsight :clapper: :capital_abcd: :clapper:](https://www.pluralsight.com/courses/web-accessibility-getting-started)
 
 ---
 
