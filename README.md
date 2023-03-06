@@ -544,6 +544,18 @@ a package manager is a piece of software that lets you manage the dependencies (
 
 ---
 
+## CSS Architecture:
+
+[BEM](http://getbem.com) methodology gives your CSS code a solid structure that remains simple, easy to understand and easy to modify
+
+**Learning Resources**:
+-  [BEM 📄](http://getbem.com/introduction/)
+-  [BEM Cheat Sheet 📄](https://9elements.com/bem-cheat-sheet/)
+-  [Organize your CSS code using BEM 🎬](https://youtu.be/QtX-fPHUSpM) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+-  [You Probably Need BEM CSS in Your Life (Tutorial) 🎬](https://youtu.be/er1JEDuPbZQ)
+
+---
+
 ## CSS Preprocessors:
 
 CSS preprocessors are scripting languages that extend the default capabilities of CSS. They enable us to use logic in our CSS code, such as variables, nesting, inheritance, mixins, functions, and mathematical operations. CSS preprocessors make it easy to automate repetitive tasks, reduce the number of errors and code bloat, create reusable code snippets, and ensure backward compatibility.
@@ -559,18 +571,6 @@ CSS preprocessors are scripting languages that extend the default capabilities o
 - [Sass and BEM for beginners 🎬](https://youtu.be/jfMHA8SqUL4)
 - [Create Web Design With Sass 🎬📃🎬](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9sluuyOWPifXvySgrGma8) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
 - [SASS Tutorial (Build Your Own CSS Library) 🎬📃🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb) <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" />
-
----
-
-## CSS Architecture:
-
-[BEM](http://getbem.com) methodology gives your CSS code a solid structure that remains simple, easy to understand and easy to modify
-
-**Learning Resources**:
--  [BEM 📄](http://getbem.com/introduction/)
--  [BEM Cheat Sheet 📄](https://9elements.com/bem-cheat-sheet/)
--  [Organize your CSS code using BEM 🎬](https://youtu.be/QtX-fPHUSpM) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
--  [You Probably Need BEM CSS in Your Life (Tutorial) 🎬](https://youtu.be/er1JEDuPbZQ)
 
 ---
 
