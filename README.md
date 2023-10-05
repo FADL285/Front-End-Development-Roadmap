@@ -712,6 +712,42 @@ NuxtJS is a Server-Side Vue Framework, with some architectural opinions that can
 
 ---
 
+**Learning Resources for React.js**:
+
+- [React Docs 📖](https://react.dev/learn)
+  - [React for beginners](https://www.youtube.com/watch?v=1wZoGFF_oi4&list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK&pp=iAQB) 🎬📃🎬 <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="80" />
+  - [React for beginners](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEjXWZmwkOV-vfXmrEEsuEW) 🎬📃🎬 <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+- [React Hooks 📖](https://react.dev/reference/react)
+  - [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h) 🎬📃🎬 <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="80" />
+  - [React Hooks](https://www.youtube.com/playlist?list=PLtxOBbrOOPH4ro6EXTNHrIvmoNaOcPAwe) 🎬📃🎬 <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+- [React Router 📖](https://teachingbee.in/how-to-use-routing-in-react-js/)
+  - [React Router 6](https://www.youtube.com/watch?v=59IXY5IDrBA) 🎬📃🎬 <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="80" />
+  - [React Router 6](https://www.youtube.com/watch?v=iK2jOarAoE0) 🎬📃🎬 <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
+- [What is state Management 📖](https://www.techtarget.com/searchapparchitecture/definition/state-management) -> `Read about state management to know what you should learn 👇`
+  - [Redux Toolkit 📖](https://redux-toolkit.js.org/) <img src="https://badgen.net/badge/Recommended/PR/blue" alt="Personal Recommendation" width="95" />
+  - [Recoil 📖](https://recoiljs.org/)
+  - [MobX 📖](https://mobx.js.org/README.html)
+  - [Redux](https://www.youtube.com/watch?v=zrs7u6bdbUw) 🎬📃🎬 <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="80" />
+  - [Redux Toolkit](https://www.youtube.com/playlist?list=PLejc1JbD4ZFREfrBoSl8tjAPZOY6HNqZv) 🎬📃🎬 <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="80" />
+- [Style in React 📖](https://www.robinwieruch.de/react-css-styling/)
+  - [Style Components 📖](https://styled-components.com/)
+  - [Css Modules 📖](https://github.com/css-modules/css-modules)
+  - [Style Components crach course](https://www.youtube.com/watch?v=02zO0hZmwnw) 🎬📃🎬 <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="80" />
+  - [Material UI 📖](https://mui.com/)
+  - [Material UI crach course](https://www.youtube.com/watch?v=vyJU9efvUtQ) 🎬📃🎬 <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="80" />
+- [API Calls 📖](https://www.robinwieruch.de/react-hooks-fetch-data/)
+  -  Rest
+     - [Axios 📖](https://axios-http.com/docs/intro) <img src="https://badgen.net/badge/Recommended/PR/blue" alt="Personal Recommendation" width="95" />
+     - [SWR 📖](https://swr.vercel.app/)
+     - [React Query](https://www.youtube.com/watch?v=novnyCaa7To) 🎬📃🎬 <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="80" />
+  
+  -  GraphQL
+     - [Apollo 📖](https://www.apollographql.com/docs/) <img src="https://badgen.net/badge/Recommended/PR/blue" alt="Personal Recommendation" width="95" />
+     - [GraphQL whit React - Apollo client](https://www.youtube.com/watch?v=YyUWW04HwKY) 🎬📃🎬 <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="80" />
+     - [Relay 📖](https://relay.dev/)
+     - [URQL 📖](https://formidable.com/open-source/urql/docs/)
+
+---
 ## Testing:
 
 Learn the difference between Unit, Integration, and Functional tests and learn how to write them.
