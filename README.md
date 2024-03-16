@@ -1,6 +1,6 @@
 <div align="center">
   <img src="img/front-end-roadmap.gif" alt="Front-End Development" />
-  <p><strong>Roadmap to becoming a Front-End Developer in 2023.</strong></p>
+  <p><strong>Roadmap to becoming a Front-End Developer in 2024.</strong></p>
 </div>
 
 ---
@@ -522,7 +522,7 @@ Digital accessibility, commonly abbreviated a11y, is about designing and buildin
 ## Web Developer Tools:
 
 **Learning Resources**:
-- [Mastering Chrome Developer Tools v2  🎬📃🎬  💵💵](https://frontendmasters.com/courses/chrome-dev-tools-v2/)
+- [Introduction to Dev Tools, v3  🎬📃🎬  💵💵](https://frontendmasters.com/courses/dev-tools/)
 - [Chrome DevTools Docs 📄](https://developer.chrome.com/docs/devtools/)
 - [Google Chrome Developer Tools Crash Course 🎬](https://youtu.be/x4q86IjJFag)
 - [21+ Browser Dev Tools & Tips You Need To Know 🎬](https://youtu.be/TcTSqhpm80Y)
@@ -542,6 +542,7 @@ a package manager is a piece of software that lets you manage the dependencies (
     - [Yarn Package Manager Crash Course 🎬](https://youtu.be/g9_6KmiBISk)
     - [Yarn crash course in Arabic 🎬](https://youtu.be/1Sjhc09Q7f8) <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="80" />
 
+- [pnPm 📖](https://pnpm.io/)
 ---
 
 ## CSS Architecture:
