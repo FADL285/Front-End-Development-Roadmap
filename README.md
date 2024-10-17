@@ -230,7 +230,7 @@ GitHub is a code hosting platform for software development. GitHub lets teams wo
       <tr>
         <td><a href="https://atom.io/" target="_blank"><b>Atom</b></a></td>
         <td><a href="https://www.microsoft.com/en-us/edge" target="_blank"><b>Microsoft Edge</b></a></td>
-        <td><a href="https://cmder.net/" target="_blank"><b>Cmder</b></a></td>
+        <td><a href="https://cmder.app/" target="_blank"><b>Cmder</b></a></td>
       </tr>
       <tr>
         <td><a href="https://www.jetbrains.com/webstorm/" target="_blank"><b>WebStorm</b></a></td>
